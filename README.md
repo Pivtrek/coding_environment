@@ -1,4 +1,4 @@
-# coding_environment
+# Środowisko programisty
 
 ## Opis 
 To repozytorium zawiera rozwiązanie zadań na zajęcia środowisko programisty w bashu.
