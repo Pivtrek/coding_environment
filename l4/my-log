@@ -1,0 +1,1017 @@
+-bash: /opt/paloaltonetworks/globalprotect/PanGPA: cannot execute binary file: Exec format error      
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ git clone ssh://git@156.17.7.16:59004/24-25-1-p-0           
+Cloning into '24-25-1-p-0'...                      
+Enter passphrase for key '/home/piotr/.ssh/id_rsa':                                                   
+remote: Enumerating objects: 161, done.            
+remote: Counting objects: 100% (161/161), done.    
+remote: Compressing objects: 100% (161/161), done. 
+remote: Total 161 (delta 87), reused 0 (delta 0), pack-reused 0                                       
+Receiving objects: 100% (161/161), 21.28 KiB | 947.00 KiB/s, done.                                    
+Resolving deltas: 100% (87/87), done.              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ ls                                 
+24-25-1-p-0              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ cd 24-25-1-p-0/                    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ls                     
+main.c                s261756_podprogram.c  s268431_podprogram.c  s268454_podprogram.c                
+makefile              s268417_podprogram.c  s268435_podprogram.c  s268456_podprogram.c                
+program.h             s268418_podprogram.c  s268436_podprogram.c  s268459_podprogram.c                
+program_usage.c       s268421_podprogram.c  s268442_podprogram.c  s268485_podprogram.c                
+s0_podprogram.c       s268424_podprogram.c  s268445_podprogram.c  s999.c                              
+s254635_podprogram.c  s268426_podprogram.c  s268451_podprogram.c                                      
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git status             
+On branch master         
+Your branch is up to date with 'origin/master'.    
+
+nothing to commit, working tree clean              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git checkout -b "branch-254652"                 
+Switched to a new branch 'branch-254652'           
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git status             
+On branch branch-254652  
+nothing to commit, working tree clean              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git status             
+On branch branch-254652  
+Untracked files:         
+  (use "git add <file>..." to include in what will be committed)                                      
+        s254652_podprogram.c                       
+
+nothing added to commit but untracked files present (use "git add" to track)                          
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git add s254652_podprogram.c                    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit . -m "Dodanie pliku s254652_podprogram.c"                                                                         
+
+*** Please tell me who you are.                    
+
+Run                      
+
+  git config --global user.email "you@example.com" 
+  git config --global user.name "Your Name"        
+
+to set your account's default identity.            
+Omit --global to set the identity only in this repository.                                            
+
+fatal: empty ident name (for <piotr@DESKTOP-V9A34KA.>) not allowed                                    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git config --global user.name "254652"          
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit . -m "Dodanie pliku s254652_podprogram.c"                      
+[branch-254652 dc14e49] Dodanie pliku s254652_podprogram.c                                            
+ Committer: 254652 <piotr@DESKTOP-V9A34KA>         
+Your name and email address were configured automatically based                                       
+on your username and hostname. Please check that they are accurate.                                   
+You can suppress this message by setting them explicitly:                                             
+
+    git config --global user.name "Your Name"      
+    git config --global user.email you@example.com 
+
+After doing this, you may fix the identity used for this commit with:                                 
+
+    git commit --amend --reset-author              
+
+ 1 file changed, 15 insertions(+)                  
+ create mode 100644 s254652_podprogram.c           
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git config --global user.name "254652"                                                                                       
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit --amend --reset-author               
+[branch-254652 1c5ccd8] Dodanie pliku s254652_podprogram.c                                            
+ Committer: 254652 <piotr@DESKTOP-V9A34KA>         
+Your name and email address were configured automatically based                                       
+on your username and hostname. Please check that they are accurate.                                   
+You can suppress this message by setting them explicitly:                                             
+
+    git config --global user.name "Your Name"      
+    git config --global user.email you@example.com 
+
+After doing this, you may fix the identity used for this commit with:                                 
+
+    git commit --amend --reset-author              
+
+ 1 file changed, 15 insertions(+)                  
+ create mode 100644 s254652_podprogram.c           
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git status             
+On branch branch-254652  
+nothing to commit, working tree clean              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git checkout master    
+Switched to branch 'master'                        
+Your branch is up to date with 'origin/master'.    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git pull               
+Enter passphrase for key '/home/piotr/.ssh/id_rsa':                                                   
+Already up to date.      
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git checkout branch-254652                      
+Switched to branch 'branch-254652'                 
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git merge master       
+Already up to date.      
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git checkout master    
+Switched to branch 'master'                        
+Your branch is up to date with 'origin/master'.    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ls                     
+main.c                s261756_podprogram.c  s268431_podprogram.c  s268454_podprogram.c                
+makefile              s268417_podprogram.c  s268435_podprogram.c  s268456_podprogram.c                
+program.h             s268418_podprogram.c  s268436_podprogram.c  s268459_podprogram.c                
+program_usage.c       s268421_podprogram.c  s268442_podprogram.c  s268485_podprogram.c                
+s0_podprogram.c       s268424_podprogram.c  s268445_podprogram.c  s999.c                              
+s254635_podprogram.c  s268426_podprogram.c  s268451_podprogram.c                                      
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git checkout branch-254652                      
+Switched to branch 'branch-254652'                 
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ls                     
+main.c                s254652_podprogram.c  s268426_podprogram.c  s268451_podprogram.c                
+makefile              s261756_podprogram.c  s268431_podprogram.c  s268454_podprogram.c                
+program.h             s268417_podprogram.c  s268435_podprogram.c  s268456_podprogram.c                
+program_usage.c       s268418_podprogram.c  s268436_podprogram.c  s268459_podprogram.c                
+s0_podprogram.c       s268421_podprogram.c  s268442_podprogram.c  s268485_podprogram.c                
+s254635_podprogram.c  s268424_podprogram.c  s268445_podprogram.c  s999.c                              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git merge master       
+Already up to date.      
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ls                     
+main.c                s254652_podprogram.c  s268426_podprogram.c  s268451_podprogram.c                
+makefile              s261756_podprogram.c  s268431_podprogram.c  s268454_podprogram.c                
+program.h             s268417_podprogram.c  s268435_podprogram.c  s268456_podprogram.c                
+program_usage.c       s268418_podprogram.c  s268436_podprogram.c  s268459_podprogram.c                
+s0_podprogram.c       s268421_podprogram.c  s268442_podprogram.c  s268485_podprogram.c                
+s254635_podprogram.c  s268424_podprogram.c  s268445_podprogram.c  s999.c                              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git status             
+On branch branch-254652  
+nothing to commit, working tree clean              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git log                
+commit 1c5ccd894332e9fe3441bbbd371cacbe43bf9454 (HEAD -> branch-254652)                               
+Author: 254652 <piotr@DESKTOP-V9A34KA>             
+Date:   Mon Dec 2 20:28:17 2024 +0100              
+
+    Dodanie pliku s254652_podprogram.c             
+
+commit d3bfc546c220034d9267568b73cd18a73ffed4dd (tag: s268485, origin/master, origin/HEAD, master)    
+Author: dawidlipiak <dawidlipiak@gmail.com>        
+Date:   Mon Dec 2 20:15:17 2024 +0100              
+
+    Dodano program studenta 268485                 
+
+commit b053f575c031f019ff5ac185bd2cbf39970470ab (tag: s268454_2)                                      
+Author: Taborevia <pawel.grzegorzewski25@gmail.com>                                                   
+Date:   Mon Dec 2 17:18:27 2024 +0100              
+
+    funkcjonalnosci      
+
+commit 52f36f63697b8e631160a726dffefdc7f2806528    
+Author: Taborevia <pawel.grzegorzewski25@gmail.com>                                                   
+Date:   Mon Dec 2 16:58:44 2024 +0100              
+
+    funkcjonalnosci studenta 268454                
+
+commit e2d1728a8cc2c4633697fa376af5fe118c9fc424 (tag: s268454, tag: s268421, origin/branch-268421)    
+Author: Bartosz Tramś <btrams@onet.pl>             
+Date:   Mon Dec 2 11:31:51 2024 +0100              
+
+    add 268421 functionality                       
+
+commit 1f628920b237a3f6a150d2bab3110b47331d77b7 (tag: v_268436)                                       
+Author: = <=>            
+Date:   Mon Dec 2 10:05:57 2024 +0100              
+
+    268436 dodanie programu                        
+
+commit cb1fa9aefed7ad7d4ecbaa967954bce5fd924274 (tag: s268424, origin/branch-268424)                  
+Merge: b33727a 3ba09d9   
+Author: Agata Groszek <268424@student.pwr.edu.pl>  
+Date:   Sun Dec 1 19:56:37 2024 +0100              
+
+    Rozwiązanie konfliktów                         
+
+commit b33727a2ced366582127356379056acb0f70819e    
+Author: Agata Groszek <agagro@DESKTOP-K2418EP>     
+Date:   Sun Dec 1 19:47:50 2024 +0100              
+
+    Wprowadzenie zmian przez studenta 268424       
+
+commit 3ba09d97abe9eef5b50cc32dc7a09490bb6f6bbf (tag: v_268431)                                       
+Author: justynaziemichod <268431@student.pwr.edu.pl>                                                  
+Date:   Sun Dec 1 19:19:06 2024 +0100              
+
+    added s268431_podprogram.c                     
+
+commit a98dabe9555b14a7b8d8cfb0dbf25c9b2340c998 (tag: 268418)                                         
+Author: Jakub Drzewiecki <kuba.drzewiecki@icloud.com>                                                 
+Date:   Sat Nov 30 19:02:34 2024 +0100             
+
+    Dodano rozwiazanie studenta 268418             
+
+commit a9225c372ef29f7b1a3e702f080d5f3e640c60d3 (tag: s268417, origin/268418)                         
+Author: Mikołaj Krupiński <mikolaj_krupinski@wp.pl>                                                   
+Date:   Fri Nov 29 23:30:37 2024 +0100             
+
+    dodanie podprogramu studenta 268417            
+
+commit 8bfa57fade984f6e5b92eaa9b742f77531573b39 (tag: v_261756)                                       
+Author: jakub <261756@student.pwr.edu.pl>          
+Date:   Fri Nov 29 20:51:09 2024 +0100             
+
+    podprogram studenta 261756                     
+
+commit 80de0143261b1ecacfcbc3a6bfe23dea23670c09 (tag: s268456)                                        
+Author: Łukasz Machnik <lukaszmachnik2@gmail.com>  
+Date:   Thu Nov 28 10:50:14 2024 +0100             
+
+    Zmiany studenta 268456                         
+
+commit 79d860f6a61a4615f7dc569b26eccf393ea39c03    
+Author: Łukasz Machnik <lukaszmachnik2@gmail.com>  
+Date:   Thu Nov 28 10:48:06 2024 +0100             
+
+    Zmiany studenta 268456                         
+
+commit 9a881b151c1a6be9eee81e4d5041d68c0c17a4f5 (tag: v_254635)                                       
+Author: Piotr Kakol <piotr.kakol@xperi.com>        
+Date:   Sat Nov 23 13:32:56 2024 +0100             
+
+    Implemented functionality 254635               
+
+commit 035f5e76041891a12657de1e6e7d7e65312acff7 (tag: v_268445)                                       
+Author: JanNawrat <92691845+JanNawrat@users.noreply.github.com>                                       
+Date:   Tue Nov 19 18:28:32 2024 +0100             
+
+    Zaimplementowałem podprogram 268445 oraz dodałem odpowiednie wywołania w pozostałych plikach      
+
+commit 72fec6efcf520d6152bbd3f3f43ac21b85c2abf2    
+Merge: 78f8625 c0277a0   
+Author: Wiktor <such.wik@gmail.com>                
+Date:   Tue Nov 19 16:13:43 2024 +0100             
+
+    Resolved conflicts and merged v268459 into master                                                 
+
+commit 78f86251ea924681a0b53bd40be80118159536d9    
+Author: misiasty <igormisiek1906@gmail.com>        
+Date:   Mon Nov 18 00:28:29 2024 +0100             
+
+    Poprawa zawartości pliku. Dodanie polskich znaków                                                 
+
+commit c61c755cc23740bacd001e563490df8fa87160ba (tag: v_268435)                                       
+Author: misiasty <igormisiek1906@gmail.com>        
+Date:   Mon Nov 18 00:12:02 2024 +0100             
+
+    Dodanie swojego podprogramu. Wprowadzenie zmian w istniejących plikach                            
+
+commit 01eb9d3c10d03dfb48a0b60c65e6f4e04957ab2d (tag: s268442)                                        
+Author: SpectraL519 <jmusial2003@gmail.com>        
+Date:   Sun Nov 17 12:48:22 2024 +0100             
+
+    Dodano podprogram studenta 268442              
+
+commit 4950cae5671e24c751e0e5ad2f3506d847930d49 (tag: s268426, origin/branch-268426)                  
+Author: Aleksandra Zaremba <aleksandra.zaremba02@gmail.com>                                           
+Date:   Fri Nov 15 12:11:53 2024 +0100             
+
+    Add function for student 268426                
+
+commit 1b0ba4bcdb1063d8cebab20ec4794246b42bcfc7 (tag: v_268451)                                       
+Author: Spiryd <neumann.maks@gmail.com>            
+Date:   Thu Nov 14 21:30:25 2024 +0100             
+
+    268451 changes       
+
+commit c0277a05133897406d3e27ff7ff22d58f8ba3c06 (tag: v268459)                                        
+Author: Wiktor <such.wik@gmail.com>                
+Date:   Thu Nov 14 19:50:00 2024 +0100             
+
+    dodano podprogram s268459 oraz potrzebne zmiany                                                   
+
+commit fff7624ae83a5a362a07ca898ce45efd10c875f2 (tag: s999)                                           
+Author: Student Sztuczny 999 <999@nibyuczelnia>    
+Date:   Mon Nov 10 14:30:55 2014 +0100             
+
+    Student 999 wprowadza odpowiednie poprawki w makefile i pozostałych plikach źródłowych.           
+
+commit b495dd411d82d84c118cced42125d6fe0bd57769    
+Merge: baf27db e0cac2e   
+Author: Student Sztuczny 999 <999@nibyuczelnia>    
+Date:   Mon Nov 10 13:59:02 2014 +0100             
+
+    Merge branch 'master' into branch-999          
+                         
+    Student 999 dokonał synchronizacji swojej gałęzi ze zmianami dokonanymi przez admina w origin/master.                      
+    Polecenia:           
+      git checkout master                          
+      git pull           
+      git checkout branch-999                      
+      git merge master   
+
+commit e0cac2e9636ab179b95340d4f19c1b1ed4234c76    
+Author: admin <Marcin.Kik@pwr.edu.pl>              
+Date:   Mon Nov 10 13:54:58 2014 +0100             
+
+    admin wprowadza poprawki w pliku makefile.     
+
+commit baf27dba822c9b17c97baddf3bf5324811b24860    
+Author: Student Sztuczny 999 <999@nibyuczelnia>    
+Date:   Mon Nov 10 13:45:43 2014 +0100             
+
+    Student 999 tworzy swoją gałąź i przełącza się na nią,                                            
+    wykonując  polecenia:
+                         
+      git branch branch-999                        
+      git checkout branch-999                      
+                         
+    Student 999 dodaje plik s999.c z podprogramem, ale jeszcze nie                                    
+    uwzględnił go w makefile i pozostałych plikach źródłowych.                                        
+
+commit 871c4727e2370ff70fbff9878c222e33ba5e2b4f    
+Author: admin <Marcin.Kik@pwr.edu.pl>              
+Date:   Mon Nov 10 12:53:38 2014 +0100             
+
+        admin wprowadza trochę poprawek do organizacji projektu:                                      
+                         
+        - dodany został plik: makefile -- teraz program kompiluje się poleceniem make                 
+        - dodany został szablonowy przykład podprogramu -- pilk: s0_podprogram.c                      
+
+commit 2ccbb68c9bfb88a15caf7884ec3877837bc4be79    
+Author: admin <Marcin.Kik@pwr.edu.pl>              
+Date:   Mon Nov 10 12:36:14 2014 +0100             
+
+    admin tworzy pliki z wstępną wersją projektu   
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git log branch-254652  
+commit 1c5ccd894332e9fe3441bbbd371cacbe43bf9454 (HEAD -> branch-254652)                               
+Author: 254652 <piotr@DESKTOP-V9A34KA>             
+Date:   Mon Dec 2 20:28:17 2024 +0100              
+
+    Dodanie pliku s254652_podprogram.c             
+
+commit d3bfc546c220034d9267568b73cd18a73ffed4dd (tag: s268485, origin/master, origin/HEAD, master)    
+Author: dawidlipiak <dawidlipiak@gmail.com>        
+Date:   Mon Dec 2 20:15:17 2024 +0100              
+
+    Dodano program studenta 268485                 
+
+commit b053f575c031f019ff5ac185bd2cbf39970470ab (tag: s268454_2)                                      
+Author: Taborevia <pawel.grzegorzewski25@gmail.com>                                                   
+Date:   Mon Dec 2 17:18:27 2024 +0100              
+
+    funkcjonalnosci      
+
+commit 52f36f63697b8e631160a726dffefdc7f2806528    
+Author: Taborevia <pawel.grzegorzewski25@gmail.com>                                                   
+Date:   Mon Dec 2 16:58:44 2024 +0100              
+
+    funkcjonalnosci studenta 268454                
+
+commit e2d1728a8cc2c4633697fa376af5fe118c9fc424 (tag: s268454, tag: s268421, origin/branch-268421)    
+Author: Bartosz Tramś <btrams@onet.pl>             
+Date:   Mon Dec 2 11:31:51 2024 +0100              
+
+    add 268421 functionality                       
+
+commit 1f628920b237a3f6a150d2bab3110b47331d77b7 (tag: v_268436)                                       
+Author: = <=>            
+Date:   Mon Dec 2 10:05:57 2024 +0100              
+
+    268436 dodanie programu                        
+
+commit cb1fa9aefed7ad7d4ecbaa967954bce5fd924274 (tag: s268424, origin/branch-268424)                  
+Merge: b33727a 3ba09d9   
+Author: Agata Groszek <268424@student.pwr.edu.pl>  
+Date:   Sun Dec 1 19:56:37 2024 +0100              
+
+    Rozwiązanie konfliktów                         
+
+commit b33727a2ced366582127356379056acb0f70819e    
+Author: Agata Groszek <agagro@DESKTOP-K2418EP>     
+Date:   Sun Dec 1 19:47:50 2024 +0100              
+
+    Wprowadzenie zmian przez studenta 268424       
+
+commit 3ba09d97abe9eef5b50cc32dc7a09490bb6f6bbf (tag: v_268431)                                       
+Author: justynaziemichod <268431@student.pwr.edu.pl>                                                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ clear                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git status             
+On branch branch-254652  
+nothing to commit, working tree clean              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ls                     
+main.c                s254652_podprogram.c  s268426_podprogram.c  s268451_podprogram.c                
+makefile              s261756_podprogram.c  s268431_podprogram.c  s268454_podprogram.c                
+program.h             s268417_podprogram.c  s268435_podprogram.c  s268456_podprogram.c                
+program_usage.c       s268418_podprogram.c  s268436_podprogram.c  s268459_podprogram.c                
+s0_podprogram.c       s268421_podprogram.c  s268442_podprogram.c  s268485_podprogram.c                
+s254635_podprogram.c  s268424_podprogram.c  s268445_podprogram.c  s999.c                              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ cat main.c             
+#include "program.h"     
+
+
+int main(int argc, char *argv[])                   
+{                        
+
+  if(argc!=2)            
+    {                    
+      program_usage();   
+      exit(EXIT_FAILURE);                          
+    }                    
+
+  {                      
+    int idx=atoi(argv[1]);                         
+    switch( idx )        
+      {                  
+      case 0:            
+        s0_podprogram() ; // podprogram studenta o numerze indeksu 0                                  
+        break;           
+      case 999: /* podprogram studenta 999 */      
+        s999_podprogram() ;                        
+        break;           
+      case 268451: /* podprogram studenta 268451 */                                                   
+        s268451_podprogram() ;                     
+        break;           
+      case 268426:       
+        s268426_podprogram();                      
+        break;           
+      case 268442:       
+        s268442_podprogram();                      
+        break;           
+      case 268435:       
+              s268435_podprogram() ; // podprogram studenta o numerze indeksu 268435                  
+      case 268459:       
+        s268459_podprogram();                      
+        break;           
+      case 268445:       
+        s268445_podprogram();                      
+        break;           
+      case 254635:       
+        s254635_podprogram();                      
+        break;           
+      case 268456:       
+        s268456_podprogram(); /* podprogram studenta 268456 */                                        
+        break;           
+      case 261756:       
+        s261756_podprogram(); /* podprogram studenta 268456 */                                        
+        break;           
+      case 268417:       
+        s268417_podprogram();                      
+        break;           
+      case 268418:       
+        s268418_podprogram(); /* podprogram studenta 268418 */                                        
+        break;           
+      case 268424:       
+        s268424_podprogram(); /* podprogram studenta 268424 */                                        
+        break;           
+      case 268485:       
+        s268485_podprogram(); /* podprogram studenta 268485 */                                        
+        break;           
+      case 268431:       
+        s268431_podprogram();                      
+        break;           
+        case 268436:     
+        s268436_podprogram();                      
+        break;           
+      case 268421:       
+        s268421_podprogram();                      
+        break;           
+      case 268454:       
+        s268454_podprogram();                      
+        break;           
+      default:           
+              printf("\nStudent o numerze indeksu %d nie wykonał jeszcze zadania\n\n",idx);           
+      break;             
+
+      }                  
+  }                      
+  exit(EXIT_SUCCESS);    
+}                        
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ nano main.c            
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit . -m "Dodanie zmian w pliku main.c"  
+[branch-254652 81f18e9] Dodanie zmian w pliku main.c                                                  
+ Committer: 254652 <piotr@DESKTOP-V9A34KA>         
+Your name and email address were configured automatically based                                       
+on your username and hostname. Please check that they are accurate.                                   
+You can suppress this message by setting them explicitly:                                             
+
+    git config --global user.name "Your Name"      
+    git config --global user.email you@example.com 
+
+After doing this, you may fix the identity used for this commit with:                                 
+
+    git commit --amend --reset-author              
+
+ 1 file changed, 3 insertions(+)                   
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git config --global user.name "254652"          
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit --ammend --reset-author              
+error: unknown option `ammend'                     
+usage: git commit [<options>] [--] <pathspec>...   
+
+    -q, --quiet           suppress summary after successful commit                                    
+    -v, --verbose         show diff in commit message template                                        
+
+Commit message options   
+    -F, --file <file>     read message from file   
+    --author <author>     override author for commit                                                  
+    --date <date>         override date for commit 
+    -m, --message <message>                        
+                          commit message           
+    -c, --reedit-message <commit>                  
+                          reuse and edit message from specified commit                                
+    -C, --reuse-message <commit>                   
+                          reuse message from specified commit                                         
+    --fixup <commit>      use autosquash formatted message to fixup specified commit                  
+    --squash <commit>     use autosquash formatted message to squash specified commit                 
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)                  
+    -s, --signoff         add Signed-off-by:       
+    -t, --template <file>                          
+                          use specified template file                                                 
+    -e, --edit            force edit of commit     
+    --cleanup <mode>      how to strip spaces and #comments from message                              
+    --status              include status in commit message template                                   
+    -S, --gpg-sign[=<key-id>]                      
+                          GPG sign commit          
+
+Commit contents options  
+    -a, --all             commit all changed files 
+    -i, --include         add specified files to index for commit                                     
+    --interactive         interactively add files  
+    -p, --patch           interactively add changes                                                   
+    -o, --only            commit only specified files                                                 
+    -n, --no-verify       bypass pre-commit and commit-msg hooks                                      
+    --dry-run             show what would be committed                                                
+    --short               show status concisely    
+    --branch              show branch information  
+    --ahead-behind        compute full ahead/behind values                                            
+    --porcelain           machine-readable output  
+    --long                show status in long format (default)                                        
+    -z, --null            terminate entries with NUL                                                  
+    --amend               amend previous commit    
+    --no-post-rewrite     bypass post-rewrite hook 
+    -u, --untracked-files[=<mode>]                 
+                          show untracked files, optional modes: all, normal, no. (Default: all)       
+    --pathspec-from-file <file>                    
+                          read pathspec from file  
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character                        
+
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit . -m "Dodanie zmian w pliku main.c"  
+On branch branch-254652  
+nothing to commit, working tree clean              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ls                     
+main.c                s254652_podprogram.c  s268426_podprogram.c  s268451_podprogram.c                
+makefile              s261756_podprogram.c  s268431_podprogram.c  s268454_podprogram.c                
+program.h             s268417_podprogram.c  s268435_podprogram.c  s268456_podprogram.c                
+program_usage.c       s268418_podprogram.c  s268436_podprogram.c  s268459_podprogram.c                
+s0_podprogram.c       s268421_podprogram.c  s268442_podprogram.c  s268485_podprogram.c                
+s254635_podprogram.c  s268424_podprogram.c  s268445_podprogram.c  s999.c                              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ nano makefile          
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit . -m "Dodanie zmian w pliku makefile"                                                                             
+[branch-254652 4e9c4f3] Dodanie zmian w pliku makefile                                                
+ Committer: 254652 <piotr@DESKTOP-V9A34KA>         
+Your name and email address were configured automatically based                                       
+on your username and hostname. Please check that they are accurate.                                   
+You can suppress this message by setting them explicitly:                                             
+
+    git config --global user.name "Your Name"      
+    git config --global user.email you@example.com 
+
+After doing this, you may fix the identity used for this commit with:                                 
+
+    git commit --amend --reset-author              
+
+ 1 file changed, 3 insertions(+)                   
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git config --global user.name "254652"                                                                                       
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit --ammend --reset-author                                                                                           
+error: unknown option `ammend'                     
+usage: git commit [<options>] [--] <pathspec>...   
+
+    -q, --quiet           suppress summary after successful commit                                    
+    -v, --verbose         show diff in commit message template                                        
+
+Commit message options   
+    -F, --file <file>     read message from file   
+    --author <author>     override author for commit                                                  
+    --date <date>         override date for commit 
+    -m, --message <message>                        
+                          commit message           
+    -c, --reedit-message <commit>                  
+                          reuse and edit message from specified commit                                
+    -C, --reuse-message <commit>                   
+                          reuse message from specified commit                                         
+    --fixup <commit>      use autosquash formatted message to fixup specified commit                  
+    --squash <commit>     use autosquash formatted message to squash specified commit                 
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)                  
+    -s, --signoff         add Signed-off-by:       
+    -t, --template <file>                          
+                          use specified template file                                                 
+    -e, --edit            force edit of commit     
+    --cleanup <mode>      how to strip spaces and #comments from message                              
+    --status              include status in commit message template                                   
+    -S, --gpg-sign[=<key-id>]                      
+                          GPG sign commit          
+
+Commit contents options  
+    -a, --all             commit all changed files 
+    -i, --include         add specified files to index for commit                                     
+    --interactive         interactively add files  
+    -p, --patch           interactively add changes                                                   
+    -o, --only            commit only specified files                                                 
+    -n, --no-verify       bypass pre-commit and commit-msg hooks                                      
+    --dry-run             show what would be committed                                                
+    --short               show status concisely    
+    --branch              show branch information  
+    --ahead-behind        compute full ahead/behind values                                            
+    --porcelain           machine-readable output  
+    --long                show status in long format (default)                                        
+    -z, --null            terminate entries with NUL                                                  
+    --amend               amend previous commit    
+    --no-post-rewrite     bypass post-rewrite hook 
+    -u, --untracked-files[=<mode>]                 
+                          show untracked files, optional modes: all, normal, no. (Default: all)       
+    --pathspec-from-file <file>                    
+                          read pathspec from file  
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character                        
+
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ls                     
+main.c                s254652_podprogram.c  s268426_podprogram.c  s268451_podprogram.c                
+makefile              s261756_podprogram.c  s268431_podprogram.c  s268454_podprogram.c                
+program.h             s268417_podprogram.c  s268435_podprogram.c  s268456_podprogram.c                
+program_usage.c       s268418_podprogram.c  s268436_podprogram.c  s268459_podprogram.c                
+s0_podprogram.c       s268421_podprogram.c  s268442_podprogram.c  s268485_podprogram.c                
+s254635_podprogram.c  s268424_podprogram.c  s268445_podprogram.c  s999.c                              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ nano program.h         
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git config --global user.name "254652"          
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git commit . -m "Dodanie zmian w pliku program.h"                                                                            
+[branch-254652 a2c46ab] Dodanie zmian w pliku program.h                                               
+ Committer: 254652 <piotr@DESKTOP-V9A34KA>         
+Your name and email address were configured automatically based                                       
+on your username and hostname. Please check that they are accurate.                                   
+You can suppress this message by setting them explicitly:                                             
+
+    git config --global user.name "Your Name"      
+    git config --global user.email you@example.com 
+
+After doing this, you may fix the identity used for this commit with:                                 
+
+    git commit --amend --reset-author              
+
+ 1 file changed, 1 insertion(+)                    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ nano program_usage.c   
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git status             
+On branch branch-254652  
+nothing to commit, working tree clean              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git checkout master    
+Switched to branch 'master'                        
+Your branch is up to date with 'origin/master'.    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git status             
+On branch master         
+Your branch is up to date with 'origin/master'.    
+
+nothing to commit, working tree clean              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git merge branch-254652
+Updating d3bfc54..a2c46ab
+Fast-forward             
+ main.c               |  3 +++                     
+ makefile             |  3 +++                     
+ program.h            |  1 +                       
+ s254652_podprogram.c | 15 +++++++++++++++         
+ 4 files changed, 22 insertions(+)                 
+ create mode 100644 s254652_podprogram.c           
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git log --oneline      
+a2c46ab (HEAD -> master, branch-254652) Dodanie zmian w pliku program.h                               
+4e9c4f3 Dodanie zmian w pliku makefile             
+81f18e9 Dodanie zmian w pliku main.c               
+1c5ccd8 Dodanie pliku s254652_podprogram.c         
+d3bfc54 (tag: s268485, origin/master, origin/HEAD) Dodano program studenta 268485                     
+b053f57 (tag: s268454_2) funkcjonalnosci           
+52f36f6 funkcjonalnosci studenta 268454            
+e2d1728 (tag: s268454, tag: s268421, origin/branch-268421) add 268421 functionality                   
+1f62892 (tag: v_268436) 268436 dodanie programu    
+cb1fa9a (tag: s268424, origin/branch-268424) Rozwiązanie konfliktów                                   
+b33727a Wprowadzenie zmian przez studenta 268424   
+3ba09d9 (tag: v_268431) added s268431_podprogram.c 
+a98dabe (tag: 268418) Dodano rozwiazanie studenta 268418                                              
+a9225c3 (tag: s268417, origin/268418) dodanie podprogramu studenta 268417                             
+8bfa57f (tag: v_261756) podprogram studenta 261756 
+80de014 (tag: s268456) Zmiany studenta 268456      
+79d860f Zmiany studenta 268456                     
+9a881b1 (tag: v_254635) Implemented functionality 254635                                              
+035f5e7 (tag: v_268445) Zaimplementowałem podprogram 268445 oraz dodałem odpowiednie wywołania w pozostałych plikach           
+72fec6e Resolved conflicts and merged v268459 into master                                             
+78f8625 Poprawa zawartości pliku. Dodanie polskich znaków                                             
+c61c755 (tag: v_268435) Dodanie swojego podprogramu. Wprowadzenie zmian w istniejących plikach        
+01eb9d3 (tag: s268442) Dodano podprogram studenta 268442                                              
+4950cae (tag: s268426, origin/branch-268426) Add function for student 268426                          
+1b0ba4b (tag: v_268451) 268451 changes             
+c0277a0 (tag: v268459) dodano podprogram s268459 oraz potrzebne zmiany                                
+fff7624 (tag: s999) Student 999 wprowadza odpowiednie poprawki w makefile i pozostałych plikach źródłowych.                    
+b495dd4 Merge branch 'master' into branch-999      
+e0cac2e admin wprowadza poprawki w pliku makefile. 
+baf27db Student 999 tworzy swoją gałąź i przełącza się na nią, wykonując  polecenia:                  
+871c472     admin wprowadza trochę poprawek do organizacji projektu:                                  
+2ccbb68 admin tworzy pliki z wstępną wersją projektu                                                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git tag s254652 4e9c4f3
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git tag s254652 1c5ccd8
+fatal: tag 's254652' already exists                
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git tag s254652 81f18e9
+fatal: tag 's254652' already exists                
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git log --oneline      
+a2c46ab (HEAD -> master, branch-254652) Dodanie zmian w pliku program.h                               
+4e9c4f3 (tag: s254652) Dodanie zmian w pliku makefile                                                 
+81f18e9 Dodanie zmian w pliku main.c               
+1c5ccd8 Dodanie pliku s254652_podprogram.c         
+d3bfc54 (tag: s268485, origin/master, origin/HEAD) Dodano program studenta 268485                     
+b053f57 (tag: s268454_2) funkcjonalnosci           
+52f36f6 funkcjonalnosci studenta 268454            
+e2d1728 (tag: s268454, tag: s268421, origin/branch-268421) add 268421 functionality                   
+1f62892 (tag: v_268436) 268436 dodanie programu    
+cb1fa9a (tag: s268424, origin/branch-268424) Rozwiązanie konfliktów                                   
+b33727a Wprowadzenie zmian przez studenta 268424   
+3ba09d9 (tag: v_268431) added s268431_podprogram.c 
+a98dabe (tag: 268418) Dodano rozwiazanie studenta 268418                                              
+a9225c3 (tag: s268417, origin/268418) dodanie podprogramu studenta 268417                             
+8bfa57f (tag: v_261756) podprogram studenta 261756 
+80de014 (tag: s268456) Zmiany studenta 268456      
+79d860f Zmiany studenta 268456                     
+9a881b1 (tag: v_254635) Implemented functionality 254635                                              
+035f5e7 (tag: v_268445) Zaimplementowałem podprogram 268445 oraz dodałem odpowiednie wywołania w pozostałych plikach           
+72fec6e Resolved conflicts and merged v268459 into master                                             
+78f8625 Poprawa zawartości pliku. Dodanie polskich znaków                                             
+c61c755 (tag: v_268435) Dodanie swojego podprogramu. Wprowadzenie zmian w istniejących plikach        
+01eb9d3 (tag: s268442) Dodano podprogram studenta 268442                                              
+4950cae (tag: s268426, origin/branch-268426) Add function for student 268426                          
+1b0ba4b (tag: v_268451) 268451 changes             
+c0277a0 (tag: v268459) dodano podprogram s268459 oraz potrzebne zmiany                                
+fff7624 (tag: s999) Student 999 wprowadza odpowiednie poprawki w makefile i pozostałych plikach źródłowych.                    
+b495dd4 Merge branch 'master' into branch-999      
+e0cac2e admin wprowadza poprawki w pliku makefile. 
+baf27db Student 999 tworzy swoją gałąź i przełącza się na nią, wykonując  polecenia:                  
+871c472     admin wprowadza trochę poprawek do organizacji projektu:                                  
+2ccbb68 admin tworzy pliki z wstępną wersją projektu                                                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git tag s254652_2 81f18e9                       
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git tag s254652_3 1c5ccd8                       
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git tag s254652_4 a2c46
+ab                       
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git log --oneline      
+a2c46ab (HEAD -> master, tag: s254652_4, branch-254652) Dodanie zmian w pliku program.h               
+4e9c4f3 (tag: s254652) Dodanie zmian w pliku makefile                                                 
+81f18e9 (tag: s254652_2) Dodanie zmian w pliku main.c                                                 
+1c5ccd8 (tag: s254652_3) Dodanie pliku s254652_podprogram.c                                           
+d3bfc54 (tag: s268485, origin/master, origin/HEAD) Dodano program studenta 268485                     
+b053f57 (tag: s268454_2) funkcjonalnosci           
+52f36f6 funkcjonalnosci studenta 268454            
+e2d1728 (tag: s268454, tag: s268421, origin/branch-268421) add 268421 functionality                   
+1f62892 (tag: v_268436) 268436 dodanie programu    
+cb1fa9a (tag: s268424, origin/branch-268424) Rozwiązanie konfliktów                                   
+b33727a Wprowadzenie zmian przez studenta 268424   
+3ba09d9 (tag: v_268431) added s268431_podprogram.c 
+a98dabe (tag: 268418) Dodano rozwiazanie studenta 268418                                              
+a9225c3 (tag: s268417, origin/268418) dodanie podprogramu studenta 268417                             
+8bfa57f (tag: v_261756) podprogram studenta 261756 
+80de014 (tag: s268456) Zmiany studenta 268456      
+79d860f Zmiany studenta 268456                     
+9a881b1 (tag: v_254635) Implemented functionality 254635                                              
+035f5e7 (tag: v_268445) Zaimplementowałem podprogram 268445 oraz dodałem odpowiednie wywołania w pozostałych plikach           
+72fec6e Resolved conflicts and merged v268459 into master                                             
+78f8625 Poprawa zawartości pliku. Dodanie polskich znaków                                             
+c61c755 (tag: v_268435) Dodanie swojego podprogramu. Wprowadzenie zmian w istniejących plikach        
+01eb9d3 (tag: s268442) Dodano podprogram studenta 268442                                              
+4950cae (tag: s268426, origin/branch-268426) Add function for student 268426                          
+1b0ba4b (tag: v_268451) 268451 changes             
+c0277a0 (tag: v268459) dodano podprogram s268459 oraz potrzebne zmiany                                
+fff7624 (tag: s999) Student 999 wprowadza odpowiednie poprawki w makefile i pozostałych plikach źródłowych.                    
+b495dd4 Merge branch 'master' into branch-999      
+e0cac2e admin wprowadza poprawki w pliku makefile. 
+baf27db Student 999 tworzy swoją gałąź i przełącza się na nią, wykonując  polecenia:                  
+871c472     admin wprowadza trochę poprawek do organizacji projektu:                                  
+2ccbb68 admin tworzy pliki z wstępną wersją projektu                                                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git push origin master 
+Enter passphrase for key '/home/piotr/.ssh/id_rsa':                                                   
+Enumerating objects: 16, done.                     
+Counting objects: 100% (16/16), done.              
+Delta compression using up to 8 threads            
+Compressing objects: 100% (12/12), done.           
+Writing objects: 100% (12/12), 1.40 KiB | 51.00 KiB/s, done.                                          
+Total 12 (delta 7), reused 0 (delta 0)             
+To ssh://156.17.7.16:59004/24-25-1-p-0             
+   d3bfc54..a2c46ab  master -> master              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git push --tags        
+Enter passphrase for key '/home/piotr/.ssh/id_rsa':                                                   
+Total 0 (delta 0), reused 0 (delta 0)              
+To ssh://156.17.7.16:59004/24-25-1-p-0             
+ * [new tag]         s254652 -> s254652            
+ * [new tag]         s254652_2 -> s254652_2        
+ * [new tag]         s254652_3 -> s254652_3        
+ * [new tag]         s254652_4 -> s254652_4        
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ cd ..                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ git clone ssh://git@156.17.7.16:59004/24-25-1-p-0           
+fatal: destination path '24-25-1-p-0' already exists and is not an empty directory.                   
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ ls                                 
+24-25-1-p-0              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ sudo rm -r 24-25-1-p-0/            
+[sudo] password for piotr:                         
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ git clone ssh://git@156.17.7.16:59004/24-25-1-p-0           
+Cloning into '24-25-1-p-0'...                      
+Enter passphrase for key '/home/piotr/.ssh/id_rsa':                                                   
+remote: Enumerating objects: 173, done.            
+remote: Counting objects: 100% (173/173), done.    
+remote: Compressing objects: 100% (173/173), done. 
+remote: Total 173 (delta 94), reused 0 (delta 0), pack-reused 0                                       
+Receiving objects: 100% (173/173), 22.58 KiB | 577.00 KiB/s, done.                                    
+Resolving deltas: 100% (94/94), done.              
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ cd 24-25-1-p-0/                    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git checkout s254652   
+Note: switching to 's254652'.                      
+
+You are in 'detached HEAD' state. You can look around, make experimental                              
+changes and commit them, and you can discard any commits you make in this                             
+state without impacting any branches by switching back to a branch.                                   
+
+If you want to create a new branch to retain commits you create, you may                              
+do so (now or later) by using -c with the switch command. Example:                                    
+
+  git switch -c <new-branch-name>                  
+
+Or undo this operation with:                       
+
+  git switch -           
+
+Turn off this advice by setting config variable advice.detachedHead to false                          
+
+HEAD is now at 4e9c4f3 Dodanie zmian w pliku makefile                                                 
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git show s254652       
+commit 4e9c4f349fdc9f952f73f56d9404cc8aac6f7b81 (HEAD, tag: s254652)                                  
+Author: 254652 <piotr@DESKTOP-V9A34KA>             
+Date:   Mon Dec 2 20:39:48 2024 +0100              
+
+    Dodanie zmian w pliku makefile                 
+
+diff --git a/makefile b/makefile                   
+index 21431dd..c42a22f 100644                      
+--- a/makefile           
++++ b/makefile           
+@@ -17,6 +17,7 @@ objects = main.o program_usage.o \                                                  
+        s268421_podprogram.o \                     
+        s268454_podprogram.o \                     
+        s268485_podprogram.o \                     
++       s254652_podprogram.o \                     
+        s999.o           
+                         
+ program : $(objects)    
+@@ -28,6 +29,8 @@ program_usage.o : program.h      
+                         
+ s0_podprogram.o : program.h                       
+                         
++s254652_podprogram.o : program.h                  
++                        
+ s268454_podprogram.o : program.h                  
+                         
+ s268451_podprogram.o : program.h                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git show s254652_2     
+commit 81f18e91ab3e7e959b76d1eccc9fe65f31123884 (tag: s254652_2)                                      
+Author: 254652 <piotr@DESKTOP-V9A34KA>             
+Date:   Mon Dec 2 20:37:04 2024 +0100              
+
+    Dodanie zmian w pliku main.c                   
+
+diff --git a/main.c b/main.c                       
+index 6020df3..b5624ee 100644                      
+--- a/main.c             
++++ b/main.c             
+@@ -70,6 +70,9 @@ int main(int argc, char *argv[]) 
+       case 268454:      
+        s268454_podprogram();                      
+        break;           
++      case 254652:      
++       s254652_podprogram();                      
++       break;           
+       default:          
+              printf("\nStudent o numerze indeksu %d nie wykonał jeszcze zadania\n\n",idx);           
+       break;            
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git show s254652_3     
+commit 1c5ccd894332e9fe3441bbbd371cacbe43bf9454 (tag: s254652_3)                                      
+Author: 254652 <piotr@DESKTOP-V9A34KA>             
+Date:   Mon Dec 2 20:28:17 2024 +0100              
+
+    Dodanie pliku s254652_podprogram.c             
+
+diff --git a/s254652_podprogram.c b/s254652_podprogram.c                                              
+new file mode 100644     
+index 0000000..2ff7b80   
+--- /dev/null            
++++ b/s254652_podprogram.c                         
+@@ -0,0 +1,15 @@         
++#include "program.h"    
++                        
++void s254652_podprogram() {                       
++       printf("Student: Piotr Rzepka [nr indeksu: 254652]\n");                                       
++       printf("Program wczytuje liczbę naturalną n i wypisuje liczbę o 10 większą od niej");         
++                        
++       printf("Podaj n: ");                       
++       unsigned n;      
++       scanf("%u", &n); 
++                        
++       n = n+10;        
++                        
++       printf("Liczba o 10 większa to: %u ", n);  
++       printf("\n");    
++}                       
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git show s254652_4     
+commit a2c46aba3aa0ef77cee9f8a086656ae86f708083 (tag: s254652_4, origin/master, origin/HEAD, master)  
+Author: 254652 <piotr@DESKTOP-V9A34KA>             
+Date:   Mon Dec 2 20:41:32 2024 +0100              
+
+    Dodanie zmian w pliku program.h                
+
+diff --git a/program.h b/program.h                 
+index edd28b4..e31f2dd 100644                      
+--- a/program.h          
++++ b/program.h          
+@@ -31,3 +31,4 @@ void s268431_podprogram();       
+ void s268421_podprogram(); /* funkcja studenta 268421 */                                             
+ void s268454_podprogram(); /*funkcja studenta 268454*/                                               
+ void s268485_podprogram(); /* funkcja studenta 268485 */                                             
++void s254652_podprogram(); /* funkcja studenta 254652 */                                             
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ make                   
+cc    -c -o main.o main.c                          
+main.c: In function ‘main’:                        
+main.c:74:2: warning: implicit declaration of function ‘s254652_podprogram’; did you mean ‘s254635_podprogram’? [-Wimplicit-function-declaration]        
+   74 |  s254652_podprogram();                     
+      |  ^~~~~~~~~~~~~~~~~~                        
+      |  s254635_podprogram                        
+cc    -c -o program_usage.o program_usage.c        
+cc    -c -o s0_podprogram.o s0_podprogram.c        
+cc    -c -o s268451_podprogram.o s268451_podprogram.c                                                 
+cc    -c -o s268426_podprogram.o s268426_podprogram.c                                                 
+cc    -c -o s268442_podprogram.o s268442_podprogram.c                                                 
+cc    -c -o s268435_podprogram.o s268435_podprogram.c                                                 
+cc    -c -o s268459_podprogram.o s268459_podprogram.c                                                 
+cc    -c -o s268445_podprogram.o s268445_podprogram.c                                                 
+cc    -c -o s254635_podprogram.o s254635_podprogram.c                                                 
+cc    -c -o s268456_podprogram.o s268456_podprogram.c                                                 
+cc    -c -o s261756_podprogram.o s261756_podprogram.c                                                 
+cc    -c -o s268417_podprogram.o s268417_podprogram.c                                                 
+cc    -c -o s268418_podprogram.o s268418_podprogram.c                                                 
+cc    -c -o s268424_podprogram.o s268424_podprogram.c                                                 
+cc    -c -o s268431_podprogram.o s268431_podprogram.c                                                 
+cc    -c -o s268436_podprogram.o s268436_podprogram.c                                                 
+cc    -c -o s268421_podprogram.o s268421_podprogram.c                                                 
+cc    -c -o s268454_podprogram.o s268454_podprogram.c                                                 
+cc    -c -o s268485_podprogram.o s268485_podprogram.c                                                 
+cc    -c -o s254652_podprogram.o s254652_podprogram.c                                                 
+cc    -c -o s999.o s999.c                          
+cc -o program main.o program_usage.o s0_podprogram.o s268451_podprogram.o s268426_podprogram.o s268442_podprogram.o s268435_podprogram.o s268459_podprogram.o s268445_podprogram.o s254635_podprogram.o s268456_podprogram.o s261756_podprogram.o s268417_podprogram.o s268418_podprogram.o s268424_podprogram.o s268431_podprogram.o s268436_podprogram.o s268421_podprogram.o s268454_podprogram.o s268485_podprogram.o s254652_podprogram.o s999.o -lm                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ls                     
+main.c                s254652_podprogram.o  s268426_podprogram.o  s268451_podprogram.o                
+main.o                s261756_podprogram.c  s268431_podprogram.c  s268454_podprogram.c                
+makefile              s261756_podprogram.o  s268431_podprogram.o  s268454_podprogram.o                
+program               s268417_podprogram.c  s268435_podprogram.c  s268456_podprogram.c                
+program.h             s268417_podprogram.o  s268435_podprogram.o  s268456_podprogram.o                
+program_usage.c       s268418_podprogram.c  s268436_podprogram.c  s268459_podprogram.c                
+program_usage.o       s268418_podprogram.o  s268436_podprogram.o  s268459_podprogram.o                
+s0_podprogram.c       s268421_podprogram.c  s268442_podprogram.c  s268485_podprogram.c                
+s0_podprogram.o       s268421_podprogram.o  s268442_podprogram.o  s268485_podprogram.o                
+s254635_podprogram.c  s268424_podprogram.c  s268445_podprogram.c  s999.c                              
+s254635_podprogram.o  s268424_podprogram.o  s268445_podprogram.o  s999.o                              
+s254652_podprogram.c  s268426_podprogram.c  s268451_podprogram.c                                      
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ nano main.c            
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ./program              
+wywołanie: program <nr_indeksu>                    
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ ./program 254652       
+Student: Piotr Rzepka [nr indeksu: 254652]         
+Program wczytuje liczbę naturalną n i wypisuje liczbę o 10 większą od niejPodaj n: 20                 
+Liczba o 10 większa to: 30                         
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ git log --all --graph --decorate                
+* commit a2c46aba3aa0ef77cee9f8a086656ae86f708083 (tag: s254652_4, origin/master, origin/HEAD, master)
+| Author: 254652 <piotr@DESKTOP-V9A34KA>           
+| Date:   Mon Dec 2 20:41:32 2024 +0100            
+|                        
+|     Dodanie zmian w pliku program.h              
+|                        
+* commit 4e9c4f349fdc9f952f73f56d9404cc8aac6f7b81 (HEAD, tag: s254652)                                
+| Author: 254652 <piotr@DESKTOP-V9A34KA>           
+| Date:   Mon Dec 2 20:39:48 2024 +0100            
+|                        
+|     Dodanie zmian w pliku makefile               
+|                        
+* commit 81f18e91ab3e7e959b76d1eccc9fe65f31123884 (tag: s254652_2)                                    
+| Author: 254652 <piotr@DESKTOP-V9A34KA>           
+| Date:   Mon Dec 2 20:37:04 2024 +0100            
+|                        
+|     Dodanie zmian w pliku main.c                 
+|                        
+* commit 1c5ccd894332e9fe3441bbbd371cacbe43bf9454 (tag: s254652_3)                                    
+| Author: 254652 <piotr@DESKTOP-V9A34KA>           
+| Date:   Mon Dec 2 20:28:17 2024 +0100            
+|                        
+|     Dodanie pliku s254652_podprogram.c           
+|                        
+* commit d3bfc546c220034d9267568b73cd18a73ffed4dd (tag: s268485)                                      
+| Author: dawidlipiak <dawidlipiak@gmail.com>      
+| Date:   Mon Dec 2 20:15:17 2024 +0100            
+|                        
+|     Dodano program studenta 268485               
+|                        
+* commit b053f575c031f019ff5ac185bd2cbf39970470ab (tag: s268454_2)                                    
+| Author: Taborevia <pawel.grzegorzewski25@gmail.com>                                                 
+| Date:   Mon Dec 2 17:18:27 2024 +0100            
+|                        
+|     funkcjonalnosci    
+|                        
+* commit 52f36f63697b8e631160a726dffefdc7f2806528  
+| Author: Taborevia <pawel.grzegorzewski25@gmail.com>                                                 
+| Date:   Mon Dec 2 16:58:44 2024 +0100            
+|                        
+|     funkcjonalnosci studenta 268454              
+|                        
+* commit e2d1728a8cc2c4633697fa376af5fe118c9fc424 (tag: s268454, tag: s268421, origin/branch-268421)  
+| Author: Bartosz Tramś <btrams@onet.pl>           
+| Date:   Mon Dec 2 11:31:51 2024 +0100            
+|                        
+|     add 268421 functionality                     
+|                        
+* commit 1f628920b237a3f6a150d2bab3110b47331d77b7 (tag: v_268436)                                     
+| Author: = <=>          
+| Date:   Mon Dec 2 10:05:57 2024 +0100            
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4/24-25-1-p-0$ cd ..                  
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l4$ tmux capture-pane -p -S'-' -E'-' -J >> my-log               
+

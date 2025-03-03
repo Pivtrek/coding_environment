@@ -1,0 +1,1578 @@
+Piotr Rzepka 254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ svn checkout ^[[D https://repo.cs.pwr.edu.pl/p-0/a[[pp_!1./trunk/ app1_trunk k
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+A    app1_trunk/README
+A    app1_trunk/main.c
+A    app1_trunk/makefile
+A    app1_trunk/program.h
+A    app1_trunk/s268436_podprogram.c
+A    app1_trunk/s999_podprogram.c
+A    app1_trunk/s268418_podprogram.c
+A    app1_trunk/s268454_podprogram.c
+A    app1_trunk/s268458_podprogram.c
+A    app1_trunk/s268444_podprogram.c
+A    app1_trunk/s254635_podprogram.c
+A    app1_trunk/s268450_podprogram.c
+A    app1_trunk/s268424_podprogram.c
+A    app1_trunk/s261756_podprogram.c
+A    app1_trunk/s268462_podprogram.c
+A    app1_trunk/s268442_podprogram.c
+A    app1_trunk/s268434_podprogram.c
+A    app1_trunk/s268441_podprogram.c
+A    app1_trunk/s268421_podprogram.c
+A    app1_trunk/s268459_podprogram.c
+A    app1_trunk/s268416_podprogram.c
+A    app1_trunk/s268426_podprogram.c
+A    app1_trunk/program_usage.c
+A    app1_trunk/s0_podprogram.c
+ U   app1_trunk
+Checked out revision 136.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ svn checkout https://repo.cs.pwr.edu.pl/p-0/app_1/trunk/ app1_trunk 
+copyhyypyyttps;://repo.c s.pwr.edu.pl/p-0?/branches/25456652 -m ""U"t"w"o"r"z"e"n"i"e" "b"r"a"n"c"h";"a"""'"a" "2"5"4"6"5"2" "d"l"a" "n"o"w"e"j" "f"u"n"c"k""""""""""""" "f"u"n"k"c"j"o"n"a"l"n"o"s"c"i" "p"r"o"g"r"a"m"u" """"""""""p"o"d"p"r"o"g"r"a"m"u" "2""s"2"5"4"6"5"2"/app+_1
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+Committing transaction...
+Committed revision 137.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ svn copy https://repo.cs.pwr.edu.pl/p-0/app_1/trunk/ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 -m "Utworzenie branch'a 254652 dla funkcjonalnosci podprogramu s254652"heckout https://repo.cs.pwr.edu.pl/p-0/app_1/trunk/ app1_trunk  app1_trunk
+ app1_trunk app1_trunk app1_trunk app1_trunk app1_trunkb app1_trunkr app1_trunka app1_trunkn app1_trunkc app1_trunkh app1_trunk piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ e app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ s app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ / app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 2 app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 5 app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 4 app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 6 app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 5 app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 2 app1_trunkpiotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 
+254652
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+A    app1_254652/README
+A    app1_254652/main.c
+A    app1_254652/makefile
+A    app1_254652/program.h
+A    app1_254652/s268436_podprogram.c
+A    app1_254652/s999_podprogram.c
+A    app1_254652/s268418_podprogram.c
+A    app1_254652/s268454_podprogram.c
+A    app1_254652/s268458_podprogram.c
+A    app1_254652/s268444_podprogram.c
+A    app1_254652/s254635_podprogram.c
+A    app1_254652/s268450_podprogram.c
+A    app1_254652/s268424_podprogram.c
+A    app1_254652/s261756_podprogram.c
+A    app1_254652/s268462_podprogram.c
+A    app1_254652/s268442_podprogram.c
+A    app1_254652/s268434_podprogram.c
+A    app1_254652/s268441_podprogram.c
+A    app1_254652/s268421_podprogram.c
+A    app1_254652/s268459_podprogram.c
+A    app1_254652/s268416_podprogram.c
+A    app1_254652/s268426_podprogram.c
+A    app1_254652/program_usage.c
+A    app1_254652/s0_podprogram.c
+ U   app1_254652
+Checked out revision 137.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ ls
+app1_254652  app1_trunk  zad1
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ cd app_121_254652/
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ ls
+README     program_usage.c       s268416_podprogram.c  s268426_podprogram.c  s268442_podprogram.c  s268458_podprogram.c
+main.c     s0_podprogram.c       s268418_podprogram.c  s268434_podprogram.c  s268444_podprogram.c  s268459_podprogram.c
+makefile   s254635_podprogram.c  s268421_podprogram.c  s268436_podprogram.c  s268450_podprogram.c  s268462_podprogram.c
+program.h  s261756_podprogram.c  s268424_podprogram.c  s268441_podprogram.c  s268454_podprogram.c  s999_podprogram.c
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ cat README
+Ten plik README utworzony, żeby studenci mogli umieszczać
+tu opisy działania swoich podprogramów.
+
+
+Wywołanie programu:
+
+   program ARG
+
+Dla poszczególnych wartości ARG program działa następująco:
+
+         0 - wyświetla ogólny opis działania podprogramów;
+       999 - wczytuje liczbę i drukuje jej kwadrat.
+       268426 - wczytuje liczbę i sprawdza czy jest parzysta
+       268416 - pyta się, czy dzisiaj jest środa
+       268418 - wczytuje liczbę naturalna n i wypisuje jej rozkład na czynniki pierwsze
+       268421 - wczytuje liczbę i krzyczy na wskazaną ilość znaków
+       268434 - wczytuje liczbę i zwraca liczbę o jeden większą
+       268442 - wczytuje liczbę naturalną n i wypisuje pierwszych n wyrazów ciągu Fibonacciego
+       268462 - wczytuje liczbę naturalną n i drukuje choinkę o wysokości n
+       268424 - wczytuje liczbę naturalną n i sprawdza czy jest pierwsza
+       268450 - losuje liczbe z przedzialu [1,1]
+       254635 - wczytuje liczbę naturalną n i wypisuje n pierwszych linii inwokacji Pana Tadeusza
+       268444 - informuje, ze dziala prawidlowo
+       268458 - wyswietla alfabet
+       268454 - wczytuje liczbe i wypisuje wskazana liczbe linijek tekstu
+       268436 - wczytuje słowo i wypisuje jego długość
+
+Dodatkowo, po zreintegrowaniu swojej gałęzi do trunk-a student ma utworzyć
+w katalogu:
+
+^/app_1/tags
+
+własnego taga tej wersji o nazwie: v_<nr_indeksu>
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ nano s25456652_podprogram.c
+0B[ New File ]B  GNU nano 4.8                                             s254652_podprogram.c                                                       B^G Get Help     B^O Write Out    B^W Where Is     B^K Cut Text     B^J JustifyB^C Cur PosBM-U UndoBM-A Mark TextB^X ExitB^R Read File    B^\ ReplaceB^U Paste Text   B^T To Spell     B^_ Go To Line   BM-E RedoBM-6 Copy TextBModified#includB#include  "B""Bp"Br"Bo"Bg"Br"Ba"Bm"B."Bh"vovoivoid  s254652_podprogram()  {} }  printf()")B"")BS")Bt")Bu")Bd")Be")Bn")Bt")B ")B")B:")B ")BP")Bi")Bo")Bt")Br")B ")BR")Bz")Be")Bp")Bk")Ba")B ")B[")B]")Bn]")Br]")B ]")Bi]")Bn]")Bd]")Be]")Bk]")Bs]")Bu]")B:]")B ]")B2]")B5]")B4]")B6]")B5]")B2]")B|")B")B\")Bn"));  oru     printf*(  ());:);::);:);:);:);));=);();););;();");B"");BP");Br");Bo");Bg");Br");Ba");Bm");B ");Bw");Bc");Bz");Bu");B");By");Bt");Bu");Bj");Be");B ");Bl");Bi");Bc");Bz");Bb");Bę");B ");Bn");Ba");Bt");Bu");Br");Ba");Bl");Bn");Bą");B ");Bn");B ");Bi");B ");Bw");By");Bp");Bi");Bs");Bu");Bj");Be");B ");Bl");Bi");Bc");Bz");Bb");Bę");B ");Bo");B ");B1");B0");B ");Bw");Bi");Bę");Bk");Bs");Bz");Bą");B ");Bo");Bd");B ");Bi");Be");Bj");B");B");B");Bn");Bi");Be");Bj");B ");B"););  prints f()")B""))''  ;BP");Bo");Bd");Ba");Bj");B ");Bn");B:");B "););  unsigneunsigned  n;  scanf()")B""));B%");Bu");,); );&);n););  n  =  n+10;   prim ntf()")" ')';''  );");B"");BL");Bi");Bc");Bz");Bb");B ");Ba");B");B");Ba");B ");Bo");B ");B1");B0");B ");Bw");Bi");Bę");Bk");Bs");Bz");Ba");B ");Bt");Bo");B ");B");BL");B");B:");B ");B  ");B% ");Bu ");,); );n););  o   printf()")B"")")B"")"))B\")Bn"));BSave modified buffer?                                                                                                                  Y YesB N No  BC CancelB^G Get HelpBM-D DOS FormatBM-A AppendBM-B Backup FileB^C Cancel         BM-M Mac FormatBM-P PrependB^T To FilesBFile Name to Write: s254652_podprogram.c B[ Writing... ]B        B[ Wrote 15 lines ]piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ nano program.h
+0B[ Reading... ]B[ Read 31 lines ]B  GNU nano 4.8                                                  program.h                                                             B^G Get Help     B^O Write Out    B^W Where Is     B^K Cut Text     B^J JustifyB^C Cur PosBM-U UndoBM-A Mark TextB^X ExitB^R Read File    B^\ ReplaceB^U Paste Text   B^T To Spell     B^_ Go To Line   BM-E RedoBM-6 Copy TextB#include <stdio.h>#include <stdlib.h>#include <string.h>/* deklaracje funkcji używanych w programie */Bvoid program_usage();B/* tu studenci mogą deklarować własne funkcje.   Wszystkie nazwy funkcji studenta o numerze indeksu NNNNNN   powinny rozpoczynać się od przedrostka sNNNNNN_   aby nie kolidowały z nazwami funkcji innych studentów */Bvoid s0_podprogram();B/* funkcja studenta 0 */Bvoid s999_podprogram();    B/* funkcja studenta 999 */Bvoid s268426_podprogram(); B/* funkcja studenta 268426 */Bvoid s268459_podprogram(); B/* funkcja studenta 268459 */Bvoid s268416_podprogram(); B/* funkcja studenta 268416 */Bvoid s268418_podprogram(); B/* funkcja studenta 268418 */Bvoid s268421_podprogram(); B/* funkcja studenta 268421 */Bvoid s268441_podprogram(); B/* funkcja studenta 268441 */Bvoid s268434_podprogram(); B/* funkcja studenta 268434 */Bvoid s268442_podprogram(); B/* funkcja studenta 268442 */Bvoid s268462_podprogram(); B/* funkcja studenta 268462 */Bvoid s261756_podprogram(); B/* funkcja studenta 261756*/Bvoid s268424_podprogram(); B/* funkcja studenta 268424 */Bvoid s268450_podprogram(); B/* funkcja studenta 268450 */Bvoid s254635_podprogram(); B/* funkcja studenta 254635 */Bvoid s268444_podprogram(); B/* funkcja studenta 268444 */Bvoid s268458_podprogram(); B/* funkcja studenta 268444 */
+void s268454_podprogram(); B/* funckja studenta 268454 */
+void s268436_podprogram(); B/* funkcja studenta 268436 */
+BModifiedvoivoid  2  s254652_podprogram*(  ();
+  /*  funck  c kcja  studenta  254652  *B/* funkcja studenta 254652 */BSave modified buffer?                                                                                                                  Y YesB N No  BC CancelB^G Get HelpBM-D DOS FormatBM-A AppendBM-B Backup FileB^C Cancel         BM-M Mac FormatBM-P PrependB^T To FilesBFile Name to Write: program.h B[ Writing... ]B        B[ Wrote 32 lines ]piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ nano README
+0B[ Reading... ]B[ Read 33 lines ]B  GNU nano 4.8                                                    README                                                              B^G Get Help     B^O Write Out    B^W Where Is     B^K Cut Text     B^J JustifyB^C Cur PosBM-U UndoBM-A Mark TextB^X ExitB^R Read File    B^\ ReplaceB^U Paste Text   B^T To Spell     B^_ Go To Line   BM-E RedoBM-6 Copy TextTen plik README utworzony, żeby studenci mogli umieszczaćtu opisy działania swoich podprogramów.Wywołanie programu:program ARGDla poszczególnych wartości ARG program działa następująco:0 - wyświetla ogólny opis działania podprogramów;999 - wczytuje liczbę i drukuje jej kwadrat.268426 - wczytuje liczbę i sprawdza czy jest parzysta268416 - pyta się, czy dzisiaj jest środa268418 - wczytuje liczbę naturalna n i wypisuje jej rozkład na czynniki pierwsze268421 - wczytuje liczbę i krzyczy na wskazaną ilość znaków268434 - wczytuje liczbę i zwraca liczbę o jeden większą268442 - wczytuje liczbę naturalną n i wypisuje pierwszych n wyrazów ciągu Fibonacciego268462 - wczytuje liczbę naturalną n i drukuje choinkę o wysokości n268424 - wczytuje liczbę naturalną n i sprawdza czy jest pierwsza268450 - losuje liczbe z przedzialu [1,1]254635 - wczytuje liczbę naturalną n i wypisuje n pierwszych linii inwokacji Pana Tadeusza268444 - informuje, ze dziala prawidlowo268458 - wyswietla alfabet268454 - wczytuje liczbe i wypisuje wskazana liczbe linijek tekstu268436 - wczytuje słowo i wypisuje jego długośćDodatkowo, po zreintegrowaniu swojej gałęzi do trunk-a student ma utworzyćw katalogu:       268454 - wczytuje liczbe i wypisuj jego dugoBModifiedDodatkowo, po zreintegrowaniu swojej gałęzi do trunk-a student ma utworzyć22
+w katalogu:Dodatkowo, po zreintegrowaniu swojej gałęzi do trunk-a student ma utworzyć  254652    =             -          wczytuje         liczbę          naturalną        i      wypisuję     liczbę      o    109                 większą        
+w katalogu:
+
+^/app_1/tags
+
+własnego taga tej wersji o nazwie: v_<nr_indeksu>
+BSave modified buffer?                                                                                                                  Y YesB N No  BC CancelB^G Get HelpBM-D DOS FormatBM-A AppendBM-B Backup FileB^C Cancel         BM-M Mac FormatBM-P PrependB^T To FilesBFile Name to Write: README B[ Writing... ]B        B[ Wrote 34 lines ]piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ nano main.c
+0B[ Reading... ]B[ Read 79 lines ]B  GNU nano 4.8                                                    main.c                                                              B^G Get Help     B^O Write Out    B^W Where Is     B^K Cut Text     B^J JustifyB^C Cur PosBM-U UndoBM-A Mark TextB^X ExitB^R Read File    B^\ ReplaceB^U Paste Text   B^T To Spell     B^_ Go To Line   BM-E RedoBM-6 Copy TextB#include B"program.h"Bint main(int argc, char *argv[]){ Bif (argc != 2){ program_usage();exit(BEXIT_FAILURE);}{ int idx = atoi(argv[1]);Bswitch (idx){Bcase 0:s0_podprogram(); B// podprogram studenta o numerze indeksu 0Bbreak;Bcase 999:s999_podprogram(); B// podprogram studenta o numerze indeksu 999Bbreak;Bcase 268426:s268426_podprogram();break;Bcase 268416:s268416_podprogram();break;Bcase 268418:s268418_podprogram();{:
+break;
+Bcase 268459:
+s268459_podprogram();
+break;
+Bcase 268421:
+s268421_podprogram();
+break;
+Bcase 268441:
+s268441_podprogram();
+break;
+Bcase 268434:
+s268434_podprogram();
+break;
+Bcase 268442:
+s268442_podprogram();
+break;
+Bcase 268462:
+s268462_podprogram();
+break;
+Bcase 261756:
+s261756_podprogram();
+break;
+Bcase 268424:
+s268424_podprogram();
+break;
+Bcase 268450:
+s268450_podprogram();
+break;
+Bcase 254635:
+s254635_podprogram();
+break;
+Bcase 268444:
+s268444_podprogram();
+break;
+Bcase 268458:
+s268458_podprogram();
+break;
+Bcase 268454:
+s268454_podprogram(); B// podprogram studenta o indeksie 268454
+break;
+Bcase 268436:
+s268436_podprogram();
+break;
+B    default:
+printf(B"\nStudent o numerze indeksu %d nie wykonał jeszcze zadania\n\n", idx);
+break;
+}
+} }BModified         casBcase  254652:        s54  254652_podpo g rogram(( )' ;B    default:printf(B"\nStudent o numerze indeksu %d nie wykonał jeszcze zadania\n\n", idx);        breabreak;2_podprogram();  /B// B pBoBdBp Br BpBrBoBgBrBaBm B sBtBuBdBeBnBtBa B o B iBnBdBeBkBsBiBe B 2B5B4B6B5B2BSave modified buffer?                                                                                                                  Y YesB N No  BC CancelB^G Get HelpBM-D DOS FormatBM-A AppendBM-B Backup FileB^C Cancel         BM-M Mac FormatBM-P PrependB^T To FilesBFile Name to Write: main.c B[ Writing... ]B        B[ Wrote 82 lines ]piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ nano makefile
+0B[ Reading... ]B[ Read 65 lines ]B  GNU nano 4.8                                                   makefile                                                             B^G Get Help     B^O Write Out    B^W Where Is     B^K Cut Text     B^J JustifyB^C Cur PosBM-U UndoBM-A Mark TextB^X ExitB^R Read File    B^\ ReplaceB^U Paste Text   B^T To Spell     B^_ Go To Line   BM-E RedoBM-6 Copy Textobjects = main.o program_usage.o \s0_podprogram.o \s999_podprogram.o \s268426_podprogram.o \s268416_podprogram.o \s268418_podprogram.o \s268459_podprogram.o \s268421_podprogram.o  \s268441_podprogram.o \s268434_podprogram.o \s268442_podprogram.o \s268462_podprogram.o \s261756_podprogram.o \s268424_podprogram.o \s268450_podprogram.o \s254635_podprogram.o \s268444_podprogram.o \s268458_podprogram.o \s268454_podprogram.o \s268436_podprogram.oprogram : $(objects)cc -o program $(objects) -lmmain.o : program.hprogram_usage.o : program.hs0_podprogram.o : program.hBModified     s254655 2_podprogram  , .o  \  \
+
+s999_podprogram.o : program.h
+
+s268426_podprogram.o : program.h
+
+s268416_podprogram.o : program.h
+
+s268418_podprogram.o : program.h
+
+s268459_podprogram.o : program.h
+
+s268421_podprogram.o : program.h
+
+s268441_podprogram.o : program.h
+
+s268434_podprogram.o : program.h
+
+s268442_podprogram.o : program.h
+
+s268462_podprogram.o : program.h
+
+s261756_podprogram.o : program.h
+
+s268424_podprogram.o : program.h
+
+s268450_podprogram.o : program.h
+
+s268444_podprogram.o : program.h
+
+s268458_podprogram.o : program.h
+
+s268436_podprogram.o : program.h
+
+.PHONY : clean
+
+clean :s268436_podprogram.o : program.hs254652_podprogram.o  :pr    progra, m.hBSave modified buffer?                                                                                                                  Y YesB N No  BC CancelB^G Get HelpBM-D DOS FormatBM-A AppendBM-B Backup FileB^C Cancel         BM-M Mac FormatBM-P PrependB^T To FilesBFile Name to Write: makefile B[ Writing... ]B        B[ Wrote 68 lines ]piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn add 2545652s254652_podprogram.c 
+A         s254652_podprogram.c
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn commit -m :""D"i"d"a"b"""""o"d"a"n"i"e" "n"o"w"e"g"o" "m"o"d"u"ł"u" "s"2"5"4"6"5"2" "i" "p"o"d""""m"o"d"y"f"i"k" piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ a"c"j"a" "r"e"s"z"t"y" "p"l"i"k"o"w" "n""R"E"A"D"M"E"," "p"o""r"o"g"r"a"m",""."h" "m"a"i"n"."c" "o"r"a"z" "m"a"k"e" "f"""f"i"l"e" ""
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+Sending        README
+Sending        main.c
+Sending        makefile
+Sending        program.h
+Adding         s254652_podprogram.c
+Transmitting file data .....done
+Committing transaction...
+Committed revision 138.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn mergeinfo
+svn: E205000: Try 'svn help mergeinfo' for more information
+svn: E205000: Not enough arguments given
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn mergeinfo app1_254652
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+svn: E155010: The node '/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652/app1_254652' was not found.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn mergeinfo app1_254652.
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+    youngest common ancestor
+    |         last full merge
+    |         |        tip of branch
+    |         |        |         repository path
+
+    137                138     
+    |                  |       
+  -------| |------------         app_1/branches/254652
+     \                         
+      \                        
+       --| |------------         app_1/branches/254652
+                       |       
+                       WC      
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn merge info .app1_254652commit -m "Dodanie nowego modułu s254652 i modyfikacja reszty plikow README, program.h main.c oraz makefile"piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ add s254652_podprogram.c 
+nano makefilein.cREADMEprogram.hs254652_podprogram.ccat READMElscd app1_254652/lssvn checkout https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 app1_254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ opy https://repo.cs.pwr.edu.pl/p-0/app_1/trunk/ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 -m "Utworzenie branch'a 254652 dla funkcjonalnosci podprogramu s254652"heckout https://repo.cs.pwr.edu.pl/p-0/app_1/trunk/ app1_trunk
+k  https://repo.cs.pwr.edu.pl/p-0/app_1/trunk
+ https://repo.cs.pwr.edu.pl/p-0/app_1/trunk https://repo.cs.pwr.edu.pl/p-0/app_1/trunk https://repo.cs.pwr.edu.pl/p-0/app_1/trunk https://repo.cs.pwr.edu.pl/p-0/app_1/trunk https://repo.cs.pwr.edu.pl/p-0/app_1/trunk https://repo.cs.pwr.edu.pl/p-0/app_1/trunk https://repo.cs.pwr.edu.pl/p-0/app_1/trunkm https://repo.cs.pwr.edu.pl/p-0/app_1/trunke https://repo.cs.pwr.edu.pl/p-0/app_1/trunkr https://repo.cs.pwr.edu.pl/p-0/app_1/trunkg https://repo.cs.pwr.edu.pl/p-0/app_1/trunke https://repo.cs.pwr.edu.pl/p-0/app_1/trunk
+svn: E195020: Cannot merge into mixed-revision working copy [137:138]; try updating first
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn update
+Updating '.':
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+At revision 138.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn updatemerge https://repo.cs.pwr.edu.pl/p-0/app_1/trunk
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+--- Recording mergeinfo for merge of r137 through r138 into '.':
+ U   .
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ ls
+README           s0_podprogram.c       s268418_podprogram.c  s268436_podprogram.c  s268454_podprogram.c
+main.c           s254635_podprogram.c  s268421_podprogram.c  s268441_podprogram.c  s268458_podprogram.c
+makefile         s254652_podprogram.c  s268424_podprogram.c  s268442_podprogram.c  s268459_podprogram.c
+program.h        s261756_podprogram.c  s268426_podprogram.c  s268444_podprogram.c  s268462_podprogram.c
+program_usage.c  s268416_podprogram.c  s268434_podprogram.c  s268450_podprogram.c  s999_podprogram.c
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ svn commit -m :""S"g""y"n"c"h"r"o"n"i"c""z"a"c"j"a" "b"r"a"n"c"h"'"a" "2"5"4"6"5"2" "z" "t"r"u"n"k"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+Sending        .
+Committing transaction...
+Committed revision 139.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_254652$ cd ../app1+_trunk
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn merge --reintegrate https://repo.cs.pwr.edu.pl/app_p-0/a oo
+/a pp_1/branches/254652
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+--- Merging differences between repository URLs into '.':
+U    README
+U    main.c
+U    makefile
+U    program.h
+A    s254652_podprogram.c
+ U   .
+--- Recording mergeinfo for merge between repository URLs into '.':
+^Csvn: E200015: Caught signal
+
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn merge --reintegrate https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652
+svn: E195016: Cannot merge into a working copy that has local modifications
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ls
+README           s0_podprogram.c       s268418_podprogram.c  s268436_podprogram.c  s268454_podprogram.c
+main.c           s254635_podprogram.c  s268421_podprogram.c  s268441_podprogram.c  s268458_podprogram.c
+makefile         s254652_podprogram.c  s268424_podprogram.c  s268442_podprogram.c  s268459_podprogram.c
+program.h        s261756_podprogram.c  s268426_podprogram.c  s268444_podprogram.c  s268462_podprogram.c
+program_usage.c  s268416_podprogram.c  s268434_podprogram.c  s268450_podprogram.c  s999_podprogram.c
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn commit -m ""R"e"i"n"t"a"g"r"a"c"j"a" "g"a"l"e"z"i" """"""""b"r"a"n"c"h"'"a" "2"5"4"6"5"2" "z" "t"r"u"n"k"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+Sending        README
+Sending        main.c
+Sending        makefile
+Sending        program.h
+Adding         s254652_podprogram.c
+Transmitting file data ....done
+Committing transaction...
+Committed revision 140.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn delete commit -m "Reintagracja branch'a 254652 z trunk"lssvn merge --reintegrate https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 dhttps://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ehttps://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ lhttps://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ehttps://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ thttps://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ehttps://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ls
+svn delete https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 -m ""U"s"u"n"i"e"c"i"e" "g"a"l"e"z"i" "2"5"4"""""""""""" "b"r"a"n"c"h"a" """'"a" "2"5"4"6"5"2" "p"o" "r"e"i"n"t"e"g"r"a"c"j"i"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+Committing transaction...
+Committed revision 141.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn log
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+------------------------------------------------------------------------
+r134 | 268436 | 2024-11-14 13:26:45 +0100 (Thu, 14 Nov 2024) | 1 line
+
+268436 merge into trunk
+------------------------------------------------------------------------
+r126 | 268418 | 2024-11-14 11:51:23 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Merge galezi 268418
+------------------------------------------------------------------------
+r125 | 268454 | 2024-11-14 11:49:36 +0100 (Thu, 14 Nov 2024) | 1 line
+
+reintragracja galezji 268454
+------------------------------------------------------------------------
+r116 | 268458 | 2024-11-13 14:06:54 +0100 (Wed, 13 Nov 2024) | 1 line
+
+Reintegracja 268458 z trunk
+------------------------------------------------------------------------
+r110 | 268444 | 2024-11-12 23:55:22 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merge branch 268444 into trunk
+------------------------------------------------------------------------
+r105 | 254635 | 2024-11-12 17:49:10 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merging changes from 254645 branch
+------------------------------------------------------------------------
+r100 | 268450 | 2024-11-12 12:31:54 +0100 (Tue, 12 Nov 2024) | 1 line
+
+merging 268450 into the trunk
+------------------------------------------------------------------------
+r95 | 268424 | 2024-11-12 00:35:12 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Reintegracja gałęzi 268424 z trunk-iem
+------------------------------------------------------------------------
+r89 | 261756 | 2024-11-11 14:52:26 +0100 (Mon, 11 Nov 2024) | 1 line
+
+merge feature 261756
+------------------------------------------------------------------------
+r83 | 268462 | 2024-11-10 22:52:12 +0100 (Sun, 10 Nov 2024) | 1 line
+
+reintegrate 268462
+------------------------------------------------------------------------
+r77 | 268442 | 2024-11-09 14:58:36 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Wyczyszczenie kopii trunka
+------------------------------------------------------------------------
+r74 | 268442 | 2024-11-09 14:45:47 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Scalenie gałęzi 268442 z trunkiem
+------------------------------------------------------------------------
+r67 | 268434 | 2024-11-08 20:56:05 +0100 (Fri, 08 Nov 2024) | 1 line
+
+merged branch 268434 to trunk
+------------------------------------------------------------------------
+r53 | 268441 | 2024-11-08 13:26:57 +0100 (Fri, 08 Nov 2024) | 1 line
+
+268441 merge
+------------------------------------------------------------------------
+r49 | 268421 | 2024-11-07 22:52:48 +0100 (Thu, 07 Nov 2024) | 1 line
+
+merge 268421 back into trunk
+------------------------------------------------------------------------
+r43 | 268459 | 2024-11-07 18:08:54 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r40 | 268459 | 2024-11-07 18:05:58 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r37 | 268459 | 2024-11-07 18:02:11 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodanie deklaracji dla 268416
+------------------------------------------------------------------------
+r34 | 268459 | 2024-11-07 17:54:34 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodano #include program.h do podprogramu
+------------------------------------------------------------------------
+r31 | 268459 | 2024-11-07 17:38:22 +0100 (Thu, 07 Nov 2024) | 1 line
+
+scalenie gałezi branch_268459 do trunk
+------------------------------------------------------------------------
+r25 | 268416 | 2024-11-05 23:02:44 +0100 (Tue, 05 Nov 2024) | 1 line
+
+268416 merguje gałąź z trunkiem
+------------------------------------------------------------------------
+r17 | 268426 | 2024-11-05 16:39:41 +0100 (Tue, 05 Nov 2024) | 1 line
+
+Merge branch 268426 to trunk
+------------------------------------------------------------------------
+r13 | mk1 | 2024-10-29 13:45:35 +0100 (Tue, 29 Oct 2024) | 2 lines
+
+wykonano: `svn propset svn:mime-type 'text/plain;charset=utf-8' $(find app_1/ -type f )`
+
+------------------------------------------------------------------------
+r12 | admin | 2020-11-12 10:52:01 +0100 (Thu, 12 Nov 2020) | 2 lines
+
+Poprawione kodowanie README i względny adres katalogu z tagami.
+
+------------------------------------------------------------------------
+r10 | 999 | 2016-10-24 13:55:29 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+999 zreintegrował swoją gałąź z trunk-iem 
+
+
+------------------------------------------------------------------------
+r7 | admin | 2016-10-24 13:44:15 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+Dodatkowe wyjaśnienia w pliku README o tworzeniu tag-ów
+
+
+------------------------------------------------------------------------
+r3 | 999 | 2016-10-24 13:04:10 +0200 (Mon, 24 Oct 2016) | 2 lines
+
+dodano plik README w trunk
+
+------------------------------------------------------------------------
+r1 | admin | 2016-10-17 14:28:36 +0200 (Mon, 17 Oct 2016) | 3 lines
+
+początkowa wersja projektu.
+
+
+------------------------------------------------------------------------
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn logdelete https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 -m "Usuniecie branch'a 254652 po reintegracji"piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ commit -m "Reintagracja branch'a 254652 z trunk"
+lssvn merge --reintegrate https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ cd ../app1_trunk
+svn commit -m "Synchronizacja branch'a 254652 z trunk"lssvn merge https://repo.cs.pwr.edu.pl/p-0/app_1/trunkupdatemerge https://repo.cs.pwr.edu.pl/p-0/app_1/trunkinfo .app1_254652commit -m "Dodanie nowego modułu s254652 i modyfikacja reszty plikow README, program.h main.c oraz makefile"piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ add s254652_podprogram.c 
+nano makefilein.cREADMEprogram.hs254652_podprogram.cprogram.hREADMEmain.ckefilesvn add s254652_podprogram.c commit -m "Dodanie nowego modułu s254652 i modyfikacja reszty plikow README, program.h main.c oraz makefile"piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ mergeinfo
+ app1_254652. https://repo.cs.pwr.edu.pl/p-0/app_1/trunkupdatemerge https://repo.cs.pwr.edu.pl/p-0/app_1/trunklssvn log -hg
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+------------------------------------------------------------------------
+r134 | 268436 | 2024-11-14 13:26:45 +0100 (Thu, 14 Nov 2024) | 1 line
+
+268436 merge into trunk
+------------------------------------------------------------------------
+r133 | 268436 | 2024-11-14 13:22:50 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 synchronize with trunk
+------------------------------------------------------------------------
+r132 | 268436 | 2024-11-14 13:13:35 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 create program
+------------------------------------------------------------------------
+r131 | 268436 | 2024-11-14 12:50:43 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 create branch
+------------------------------------------------------------------------
+r126 | 268418 | 2024-11-14 11:51:23 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Merge galezi 268418
+------------------------------------------------------------------------
+r123 | 268418 | 2024-11-14 11:37:57 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r126
+
+Implementacja programu 268418
+------------------------------------------------------------------------
+r120 | 268418 | 2024-11-14 11:15:32 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r126
+
+268418 new branch
+------------------------------------------------------------------------
+r125 | 268454 | 2024-11-14 11:49:36 +0100 (Thu, 14 Nov 2024) | 1 line
+
+reintragracja galezji 268454
+------------------------------------------------------------------------
+r124 | 268454 | 2024-11-14 11:46:22 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+scalenie
+------------------------------------------------------------------------
+r122 | 268454 | 2024-11-14 11:36:22 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+readme
+------------------------------------------------------------------------
+r121 | 268454 | 2024-11-14 11:33:14 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+dodanie funkcjonalnosci na brancha
+------------------------------------------------------------------------
+r119 | 268454 | 2024-11-14 11:09:18 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+utworzenie galezi dla 268454
+------------------------------------------------------------------------
+r116 | 268458 | 2024-11-13 14:06:54 +0100 (Wed, 13 Nov 2024) | 1 line
+
+Reintegracja 268458 z trunk
+------------------------------------------------------------------------
+r115 | 268458 | 2024-11-13 14:04:43 +0100 (Wed, 13 Nov 2024) | 1 line
+Merged via: r116
+
+268458 podprogram
+------------------------------------------------------------------------
+r114 | 268458 | 2024-11-13 14:00:41 +0100 (Wed, 13 Nov 2024) | 2 lines
+Merged via: r116
+
+Nowy branch 268458
+
+------------------------------------------------------------------------
+r110 | 268444 | 2024-11-12 23:55:22 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merge branch 268444 into trunk
+------------------------------------------------------------------------
+r109 | 268444 | 2024-11-12 23:53:19 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r110
+
+Add s268444 feature
+------------------------------------------------------------------------
+r108 | 268444 | 2024-11-12 23:45:41 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r110
+
+Create branch for 268444
+------------------------------------------------------------------------
+r105 | 254635 | 2024-11-12 17:49:10 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merging changes from 254645 branch
+------------------------------------------------------------------------
+r104 | 254635 | 2024-11-12 17:45:15 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r105
+
+Added functionality from student 254635
+------------------------------------------------------------------------
+r103 | 254635 | 2024-11-12 17:33:02 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r105
+
+Created branch for 254635 functionality
+------------------------------------------------------------------------
+r100 | 268450 | 2024-11-12 12:31:54 +0100 (Tue, 12 Nov 2024) | 1 line
+
+merging 268450 into the trunk
+------------------------------------------------------------------------
+r99 | 268450 | 2024-11-12 12:29:18 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r100
+
+keeping branch up-to-date with trunk
+------------------------------------------------------------------------
+r98 | 268450 | 2024-11-12 12:22:15 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r100
+
+branch 268450
+------------------------------------------------------------------------
+r95 | 268424 | 2024-11-12 00:35:12 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Reintegracja gałęzi 268424 z trunk-iem
+------------------------------------------------------------------------
+r94 | 268424 | 2024-11-12 00:23:57 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r95
+
+Implementacja procedury
+------------------------------------------------------------------------
+r93 | 268424 | 2024-11-12 00:14:17 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r95
+
+Synchronizacja gałęzi 268424 z trunk-iem
+------------------------------------------------------------------------
+r92 | 268424 | 2024-11-11 22:04:13 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r95
+
+Student 268424 tworzy gałąź https://repo.cs.pwr.edu.pl/p-0/app_1/branches/268424
+------------------------------------------------------------------------
+r89 | 261756 | 2024-11-11 14:52:26 +0100 (Mon, 11 Nov 2024) | 1 line
+
+merge feature 261756
+------------------------------------------------------------------------
+r88 | 261756 | 2024-11-11 14:43:03 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+feature 261756
+------------------------------------------------------------------------
+r87 | 261756 | 2024-11-11 11:32:54 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+synch
+------------------------------------------------------------------------
+r86 | 261756 | 2024-11-11 11:28:43 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+tworze branch 261756
+------------------------------------------------------------------------
+r83 | 268462 | 2024-11-10 22:52:12 +0100 (Sun, 10 Nov 2024) | 1 line
+
+reintegrate 268462
+------------------------------------------------------------------------
+r82 | 268462 | 2024-11-10 22:46:41 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+merge trunk to branch 268462
+------------------------------------------------------------------------
+r81 | 268462 | 2024-11-10 22:41:06 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+dodanie funkcjonalności - drukowanie choinki
+------------------------------------------------------------------------
+r80 | 268462 | 2024-11-10 22:32:21 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+utworzenie brancha 268462
+------------------------------------------------------------------------
+r77 | 268442 | 2024-11-09 14:58:36 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Wyczyszczenie kopii trunka
+------------------------------------------------------------------------
+r74 | 268442 | 2024-11-09 14:45:47 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Scalenie gałęzi 268442 z trunkiem
+------------------------------------------------------------------------
+r73 | 268442 | 2024-11-09 14:31:14 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+zmieniono wlasnosc mime-type dla pliku s268442_podprogram.c
+------------------------------------------------------------------------
+r72 | 268442 | 2024-11-09 14:29:33 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Dodano program s268442_podprogram.c
+------------------------------------------------------------------------
+r71 | 268442 | 2024-11-09 14:08:30 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Creating the branch
+------------------------------------------------------------------------
+r70 | 268442 | 2024-11-09 14:05:59 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Creating the branch
+------------------------------------------------------------------------
+r67 | 268434 | 2024-11-08 20:56:05 +0100 (Fri, 08 Nov 2024) | 1 line
+
+merged branch 268434 to trunk
+------------------------------------------------------------------------
+r66 | 268434 | 2024-11-08 20:53:57 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+synchronized branch 268434 with trunk
+------------------------------------------------------------------------
+r65 | 268434 | 2024-11-08 20:48:50 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+added function for 268434
+------------------------------------------------------------------------
+r64 | 268434 | 2024-11-08 19:28:30 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+Creating branch for 268434
+------------------------------------------------------------------------
+r53 | 268441 | 2024-11-08 13:26:57 +0100 (Fri, 08 Nov 2024) | 1 line
+
+268441 merge
+------------------------------------------------------------------------
+r52 | 268441 | 2024-11-08 12:57:39 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r53
+
+dodano branch 268441
+------------------------------------------------------------------------
+r49 | 268421 | 2024-11-07 22:52:48 +0100 (Thu, 07 Nov 2024) | 1 line
+
+merge 268421 back into trunk
+------------------------------------------------------------------------
+r48 | 268421 | 2024-11-07 22:46:42 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+try merge 268421 into trunk again
+------------------------------------------------------------------------
+r47 | 268421 | 2024-11-07 22:44:35 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+merge 268421 with trunk
+------------------------------------------------------------------------
+r46 | 268421 | 2024-11-07 22:27:19 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+creating private branch for 268421
+------------------------------------------------------------------------
+r43 | 268459 | 2024-11-07 18:08:54 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r40 | 268459 | 2024-11-07 18:05:58 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r37 | 268459 | 2024-11-07 18:02:11 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodanie deklaracji dla 268416
+------------------------------------------------------------------------
+r34 | 268459 | 2024-11-07 17:54:34 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodano #include program.h do podprogramu
+------------------------------------------------------------------------
+r31 | 268459 | 2024-11-07 17:38:22 +0100 (Thu, 07 Nov 2024) | 1 line
+
+scalenie gałezi branch_268459 do trunk
+------------------------------------------------------------------------
+r30 | 268459 | 2024-11-07 17:30:58 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+Zatwierdzenie lokalnych zmian przed scalaniem
+------------------------------------------------------------------------
+r29 | 268459 | 2024-11-07 17:20:57 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+dodałem swój program
+------------------------------------------------------------------------
+r28 | 268459 | 2024-11-07 17:13:59 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+Utworzenie gałęzi dla indeksu 268459
+------------------------------------------------------------------------
+r25 | 268416 | 2024-11-05 23:02:44 +0100 (Tue, 05 Nov 2024) | 1 line
+
+268416 merguje gałąź z trunkiem
+------------------------------------------------------------------------
+r24 | 268416 | 2024-11-05 22:57:48 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r25
+
+268416 synchronizuje gałąź z trunk
+------------------------------------------------------------------------
+r23 | 268416 | 2024-11-05 22:47:46 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r25
+
+268416 zaimplementował swoją procedurę
+------------------------------------------------------------------------
+r22 | 268416 | 2024-11-05 22:09:09 +0100 (Tue, 05 Nov 2024) | 2 lines
+Merged via: r25
+
+Student 268416 tworzy własną gałąź https://repo.cs.pwr.edu.pl/p-0/app_1/branches/268416
+
+------------------------------------------------------------------------
+r17 | 268426 | 2024-11-05 16:39:41 +0100 (Tue, 05 Nov 2024) | 1 line
+
+Merge branch 268426 to trunk
+------------------------------------------------------------------------
+r16 | 268426 | 2024-11-05 16:37:39 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+Merge trunk changes to branch 268426
+------------------------------------------------------------------------
+r15 | 268426 | 2024-11-05 16:36:13 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+Add new function for student 268426
+------------------------------------------------------------------------
+r14 | 268426 | 2024-11-05 16:25:01 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+
+------------------------------------------------------------------------
+r13 | mk1 | 2024-10-29 13:45:35 +0100 (Tue, 29 Oct 2024) | 2 lines
+
+wykonano: `svn propset svn:mime-type 'text/plain;charset=utf-8' $(find app_1/ -type f )`
+
+------------------------------------------------------------------------
+r12 | admin | 2020-11-12 10:52:01 +0100 (Thu, 12 Nov 2020) | 2 lines
+
+Poprawione kodowanie README i względny adres katalogu z tagami.
+
+------------------------------------------------------------------------
+r10 | 999 | 2016-10-24 13:55:29 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+999 zreintegrował swoją gałąź z trunk-iem 
+
+
+------------------------------------------------------------------------
+r9 | 999 | 2016-10-24 13:50:09 +0200 (Mon, 24 Oct 2016) | 2 lines
+Merged via: r10
+
+999 wprowadza opis swojego podprogramu do README - ostateczna wersja jego gałęzi 
+
+------------------------------------------------------------------------
+r8 | 999 | 2016-10-24 13:46:37 +0200 (Mon, 24 Oct 2016) | 2 lines
+Merged via: r10
+
+999 ponownie synchronizuje swoją gałąź z trunk 
+
+------------------------------------------------------------------------
+r5 | 999 | 2016-10-24 13:37:15 +0200 (Mon, 24 Oct 2016) | 3 lines
+Merged via: r10
+
+999 zaimplementował swoją procedurę
+
+
+------------------------------------------------------------------------
+r4 | 999 | 2016-10-24 13:21:53 +0200 (Mon, 24 Oct 2016) | 3 lines
+Merged via: r10
+
+999 synchronizuje swoją gałąź z trunk
+
+
+------------------------------------------------------------------------
+r2 | 999 | 2016-10-17 16:01:19 +0200 (Mon, 17 Oct 2016) | 1 line
+Merged via: r10
+
+student 999 tworzy własną gałąź https://156.17.7.16/svn/lab/piaskownica/app_1/branches/999
+------------------------------------------------------------------------
+r7 | admin | 2016-10-24 13:44:15 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+Dodatkowe wyjaśnienia w pliku README o tworzeniu tag-ów
+
+
+------------------------------------------------------------------------
+r3 | 999 | 2016-10-24 13:04:10 +0200 (Mon, 24 Oct 2016) | 2 lines
+
+dodano plik README w trunk
+
+------------------------------------------------------------------------
+r1 | admin | 2016-10-17 14:28:36 +0200 (Mon, 17 Oct 2016) | 3 lines
+
+początkowa wersja projektu.
+
+
+------------------------------------------------------------------------
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn blame
+svn: E205001: Try 'svn help blame' for more information
+svn: E205001: Not enough arguments provided
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ ls
+app1_254652  app1_trunk  zad1  zad1_2
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ cd app!1_trunk k
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ls s
+README                s268416_podprogram.c  s268442_podprogram.c
+main.c                s268416_podprogram.o  s268442_podprogram.o
+main.o                s268418_podprogram.c  s268444_podprogram.c
+makefile              s268418_podprogram.o  s268444_podprogram.o
+program               s268421_podprogram.c  s268450_podprogram.c
+program.h             s268421_podprogram.o  s268450_podprogram.o
+program_usage.c       s268424_podprogram.c  s268454_podprogram.c
+program_usage.o       s268424_podprogram.o  s268454_podprogram.o
+s0_podprogram.c       s268426_podprogram.c  s268458_podprogram.c
+s0_podprogram.o       s268426_podprogram.o  s268458_podprogram.o
+s254635_podprogram.c  s268434_podprogram.c  s268459_podprogram.c
+s254635_podprogram.o  s268434_podprogram.o  s268459_podprogram.o
+s254652_podprogram.c  s268436_podprogram.c  s268462_podprogram.c
+s254652_podprogram.o  s268436_podprogram.o  s268462_podprogram.o
+s261756_podprogram.c  s268441_podprogram.c  s999_podprogram.c
+s261756_podprogram.o  s268441_podprogram.o  s999_podprogram.o
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ma ke clean
+rm *.o program
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ls s
+README                s268416_podprogram.c  s268444_podprogram.c
+main.c                s268418_podprogram.c  s268450_podprogram.c
+makefile              s268421_podprogram.c  s268454_podprogram.c
+program.h             s268424_podprogram.c  s268458_podprogram.c
+program_usage.c       s268426_podprogram.c  s268459_podprogram.c
+s0_podprogram.c       s268434_podprogram.c  s268462_podprogram.c
+s254635_podprogram.c  s268436_podprogram.c  s999_podprogram.c
+s254652_podprogram.c  s268441_podprogram.c
+s261756_podprogram.c  s268442_podprogram.c
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ma ke
+cc    -c -o main.o main.c
+cc    -c -o program_usage.o program_usage.c
+cc    -c -o s0_podprogram.o s0_podprogram.c
+cc    -c -o s999_podprogram.o s999_podprogram.c
+cc    -c -o s268426_podprogram.o s268426_podprogram.c
+cc    -c -o s268416_podprogram.o s268416_podprogram.c
+cc    -c -o s268418_podprogram.o s268418_podprogram.c
+cc    -c -o s268459_podprogram.o s268459_podprogram.c
+cc    -c -o s268421_podprogram.o s268421_podprogram.c
+cc    -c -o s268441_podprogram.o s268441_podprogram.c
+cc    -c -o s268434_podprogram.o s268434_podprogram.c
+cc    -c -o s268442_podprogram.o s268442_podprogram.c
+cc    -c -o s268462_podprogram.o s268462_podprogram.c
+cc    -c -o s261756_podprogram.o s261756_podprogram.c
+cc    -c -o s268424_podprogram.o s268424_podprogram.c
+cc    -c -o s268450_podprogram.o s268450_podprogram.c
+cc    -c -o s254635_podprogram.o s254635_podprogram.c
+cc    -c -o s268444_podprogram.o s268444_podprogram.c
+cc    -c -o s268458_podprogram.o s268458_podprogram.c
+cc    -c -o s268454_podprogram.o s268454_podprogram.c
+cc    -c -o s268436_podprogram.o s268436_podprogram.c
+cc    -c -o s254652_podprogram.o s254652_podprogram.c
+cc -o program main.o program_usage.o s0_podprogram.o s999_podprogram.o s268426_podprogram.o s268416_podprogram.o s268418_podprogram.o s268459_podprogram.o s268421_podprogram.o s268441_podprogram.o s268434_podprogram.o s268442_podprogram.o s268462_podprogram.o s261756_podprogram.o s268424_podprogram.o s268450_podprogram.o s254635_podprogram.o s268444_podprogram.o s268458_podprogram.o s268454_podprogram.o s268436_podprogram.o s254652_podprogram.o  -lm
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ./program 254652
+Student: Piotr Rzepka [nr indeksu: 254652]
+Program wczytuje liczbę naturalną n i wypisuje liczbę o 10 większą od niejPodaj n: 25
+Liczba o 10 większa to: 35 
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn copy ./program 254652makelsmake cleanlscd app1_trunkls./program 254652lsmakelsgcc main.c program.c -o mainclearat makefilelearat makefileREADMEs0_podprogram.c lsmake cleancat makefilegcc main.c -o mainclearat main.cprogram_usage.cgcc main.c -o main./mains254652_podprogramlsmake./s254652_podprogram.c lscd app1_trunk/lssvn mergeinfo app1_254652/cd ..svn mergeinfo app1_trunkcd app1_trunklscat zad1lsst -o zad1clearlsrm test1_capture catst -o test1_captureudo apt install sttermvn help propsetpropset svn:mime-type 'text/plain;charset=utf-8'blamepropset svn:mime-type 'text/plain;charset=utf-8'blamelog -gdelete https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 -m "Usuniecie branch'a 254652 po reintegracji"piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ commit -m "Reintagracja branch'a 254652 z trunk"
+delete https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 -m "Usuniecie branch'a 254652 po reintegracji" https://repo.cs.pwr.edu.pl/p-0/app_1/branches/2piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/branches/25piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/branches/2546piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/branches/25465piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ c https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ o https://repo.cs.pwr.edu.pl/p-0/app_1/branches/25465piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ p https://repo.cs.pwr.edu.pl/p-0/app_1/branches/2546piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ y https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ log
+copy https://repo.cs.pwr.edu.pl/p-0/app_1/branches/254652 -m "Usuniecie branch'a 254652 po reintegracji"
+trumlnk http s"://cs.pwr.erepo,.scs.pwr.edu.pl/p-0/app_1/tags/v_254652 -m ""T"w"o""""U"Y""t"w"o"r"z"e"n"i"a" "t"a"g"-"a" "v"_"2"5"4"6"5"2" "z"e" "s"t"a"b"i"l""""""""""z" "d"z"i"a"l"a"j"a"c"y"m" "p"r"o"g"r"a"m"e"m"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+Committing transaction...
+Committed revision 143.
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ cd //
+piotr@DESKTOP-V9A34KA://$ cd ..
+piotr@DESKTOP-V9A34KA://$ cd mnt./c/Users/piotr /Desktop/sem_zimowy
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy$ cd sp
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp$ cd l3
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ ls
+app1_254652  app1_trunk  zad1  zad1_2
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ lscd l3spmnt/c/Users/piotr/Desktop/sem_zimowy..//svn copy https://repo.cs.pwr.edu.pl/p-0/app_1/trunk https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 -m "Utworzenia tag-a v_254652 z dzialajacym programem" https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/ap_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652
+ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652v https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652n https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652cd app1_trunk
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn diff -r HEAD https;://cd app1_trunklscd l3spmnt/c/Users/piotr/Desktop/sem_zimowy..//svn copy https://repo.cs.pwr.edu.pl/p-0/app_1/trunk https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 -m "Utworzenia tag-a v_254652 z dzialajacym programem" https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https:/repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/ap_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 d https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ i https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ f https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ f https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ - https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ r https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ H https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ E https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ A https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ D https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ 
+
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn diff -r HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ cd app1_trunk
+lscd app1_trunksvn diff -r HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652 HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$  HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ l HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ o HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ g HEAD https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ 
+
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+------------------------------------------------------------------------
+r143 | 254652 | 2024-11-14 16:33:49 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Utworzenia tag-a v_254652 z dzialajacym programem
+------------------------------------------------------------------------
+r140 | 254652 | 2024-11-14 14:56:33 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Reintagracja branch'a 254652 z trunk
+------------------------------------------------------------------------
+r134 | 268436 | 2024-11-14 13:26:45 +0100 (Thu, 14 Nov 2024) | 1 line
+
+268436 merge into trunk
+------------------------------------------------------------------------
+r126 | 268418 | 2024-11-14 11:51:23 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Merge galezi 268418
+------------------------------------------------------------------------
+r125 | 268454 | 2024-11-14 11:49:36 +0100 (Thu, 14 Nov 2024) | 1 line
+
+reintragracja galezji 268454
+------------------------------------------------------------------------
+r116 | 268458 | 2024-11-13 14:06:54 +0100 (Wed, 13 Nov 2024) | 1 line
+
+Reintegracja 268458 z trunk
+------------------------------------------------------------------------
+r110 | 268444 | 2024-11-12 23:55:22 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merge branch 268444 into trunk
+------------------------------------------------------------------------
+r105 | 254635 | 2024-11-12 17:49:10 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merging changes from 254645 branch
+------------------------------------------------------------------------
+r100 | 268450 | 2024-11-12 12:31:54 +0100 (Tue, 12 Nov 2024) | 1 line
+
+merging 268450 into the trunk
+------------------------------------------------------------------------
+r95 | 268424 | 2024-11-12 00:35:12 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Reintegracja gałęzi 268424 z trunk-iem
+------------------------------------------------------------------------
+r89 | 261756 | 2024-11-11 14:52:26 +0100 (Mon, 11 Nov 2024) | 1 line
+
+merge feature 261756
+------------------------------------------------------------------------
+r83 | 268462 | 2024-11-10 22:52:12 +0100 (Sun, 10 Nov 2024) | 1 line
+
+reintegrate 268462
+------------------------------------------------------------------------
+r77 | 268442 | 2024-11-09 14:58:36 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Wyczyszczenie kopii trunka
+------------------------------------------------------------------------
+r74 | 268442 | 2024-11-09 14:45:47 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Scalenie gałęzi 268442 z trunkiem
+------------------------------------------------------------------------
+r67 | 268434 | 2024-11-08 20:56:05 +0100 (Fri, 08 Nov 2024) | 1 line
+
+merged branch 268434 to trunk
+------------------------------------------------------------------------
+r53 | 268441 | 2024-11-08 13:26:57 +0100 (Fri, 08 Nov 2024) | 1 line
+
+268441 merge
+------------------------------------------------------------------------
+r49 | 268421 | 2024-11-07 22:52:48 +0100 (Thu, 07 Nov 2024) | 1 line
+
+merge 268421 back into trunk
+------------------------------------------------------------------------
+r43 | 268459 | 2024-11-07 18:08:54 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r40 | 268459 | 2024-11-07 18:05:58 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r37 | 268459 | 2024-11-07 18:02:11 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodanie deklaracji dla 268416
+------------------------------------------------------------------------
+r34 | 268459 | 2024-11-07 17:54:34 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodano #include program.h do podprogramu
+------------------------------------------------------------------------
+r31 | 268459 | 2024-11-07 17:38:22 +0100 (Thu, 07 Nov 2024) | 1 line
+
+scalenie gałezi branch_268459 do trunk
+------------------------------------------------------------------------
+r25 | 268416 | 2024-11-05 23:02:44 +0100 (Tue, 05 Nov 2024) | 1 line
+
+268416 merguje gałąź z trunkiem
+------------------------------------------------------------------------
+r17 | 268426 | 2024-11-05 16:39:41 +0100 (Tue, 05 Nov 2024) | 1 line
+
+Merge branch 268426 to trunk
+------------------------------------------------------------------------
+r13 | mk1 | 2024-10-29 13:45:35 +0100 (Tue, 29 Oct 2024) | 2 lines
+
+wykonano: `svn propset svn:mime-type 'text/plain;charset=utf-8' $(find app_1/ -type f )`
+
+------------------------------------------------------------------------
+r12 | admin | 2020-11-12 10:52:01 +0100 (Thu, 12 Nov 2020) | 2 lines
+
+Poprawione kodowanie README i względny adres katalogu z tagami.
+
+------------------------------------------------------------------------
+r10 | 999 | 2016-10-24 13:55:29 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+999 zreintegrował swoją gałąź z trunk-iem 
+
+
+------------------------------------------------------------------------
+r7 | admin | 2016-10-24 13:44:15 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+Dodatkowe wyjaśnienia w pliku README o tworzeniu tag-ów
+
+
+------------------------------------------------------------------------
+r3 | 999 | 2016-10-24 13:04:10 +0200 (Mon, 24 Oct 2016) | 2 lines
+
+dodano plik README w trunk
+
+------------------------------------------------------------------------
+r1 | admin | 2016-10-17 14:28:36 +0200 (Mon, 17 Oct 2016) | 3 lines
+
+początkowa wersja projektu.
+
+
+------------------------------------------------------------------------
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svmn lgosvn log https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_254652
+trunk
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****^Csvn: E170013: Unable to connect to a repository at URL 'https://repo.cs.pwr.edu.pl/p-0/app_1/trunk'
+svn: E200015: The operation was interrupted
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn log https://repo.cs.pwr.edu.pl/p-0/app_1/trunk- https://repo.cs.pwr.edu.pl/p-0/app_1/trunkg https://repo.cs.pwr.edu.pl/p-0/app_1/trunk 
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+------------------------------------------------------------------------
+r140 | 254652 | 2024-11-14 14:56:33 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Reintagracja branch'a 254652 z trunk
+------------------------------------------------------------------------
+r134 | 268436 | 2024-11-14 13:26:45 +0100 (Thu, 14 Nov 2024) | 1 line
+
+268436 merge into trunk
+------------------------------------------------------------------------
+r133 | 268436 | 2024-11-14 13:22:50 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 synchronize with trunk
+------------------------------------------------------------------------
+r132 | 268436 | 2024-11-14 13:13:35 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 create program
+------------------------------------------------------------------------
+r131 | 268436 | 2024-11-14 12:50:43 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 create branch
+------------------------------------------------------------------------
+r126 | 268418 | 2024-11-14 11:51:23 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Merge galezi 268418
+------------------------------------------------------------------------
+r123 | 268418 | 2024-11-14 11:37:57 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r126
+
+Implementacja programu 268418
+------------------------------------------------------------------------
+r120 | 268418 | 2024-11-14 11:15:32 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r126
+
+268418 new branch
+------------------------------------------------------------------------
+r125 | 268454 | 2024-11-14 11:49:36 +0100 (Thu, 14 Nov 2024) | 1 line
+
+reintragracja galezji 268454
+------------------------------------------------------------------------
+r124 | 268454 | 2024-11-14 11:46:22 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+scalenie
+------------------------------------------------------------------------
+r122 | 268454 | 2024-11-14 11:36:22 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+readme
+------------------------------------------------------------------------
+r121 | 268454 | 2024-11-14 11:33:14 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+dodanie funkcjonalnosci na brancha
+------------------------------------------------------------------------
+r119 | 268454 | 2024-11-14 11:09:18 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+utworzenie galezi dla 268454
+------------------------------------------------------------------------
+r116 | 268458 | 2024-11-13 14:06:54 +0100 (Wed, 13 Nov 2024) | 1 line
+
+Reintegracja 268458 z trunk
+------------------------------------------------------------------------
+r115 | 268458 | 2024-11-13 14:04:43 +0100 (Wed, 13 Nov 2024) | 1 line
+Merged via: r116
+
+268458 podprogram
+------------------------------------------------------------------------
+r114 | 268458 | 2024-11-13 14:00:41 +0100 (Wed, 13 Nov 2024) | 2 lines
+Merged via: r116
+
+Nowy branch 268458
+
+------------------------------------------------------------------------
+r110 | 268444 | 2024-11-12 23:55:22 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merge branch 268444 into trunk
+------------------------------------------------------------------------
+r109 | 268444 | 2024-11-12 23:53:19 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r110
+
+Add s268444 feature
+------------------------------------------------------------------------
+r108 | 268444 | 2024-11-12 23:45:41 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r110
+
+Create branch for 268444
+------------------------------------------------------------------------
+r105 | 254635 | 2024-11-12 17:49:10 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merging changes from 254645 branch
+------------------------------------------------------------------------
+r104 | 254635 | 2024-11-12 17:45:15 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r105
+
+Added functionality from student 254635
+------------------------------------------------------------------------
+r103 | 254635 | 2024-11-12 17:33:02 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r105
+
+Created branch for 254635 functionality
+------------------------------------------------------------------------
+r100 | 268450 | 2024-11-12 12:31:54 +0100 (Tue, 12 Nov 2024) | 1 line
+
+merging 268450 into the trunk
+------------------------------------------------------------------------
+r99 | 268450 | 2024-11-12 12:29:18 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r100
+
+keeping branch up-to-date with trunk
+------------------------------------------------------------------------
+r98 | 268450 | 2024-11-12 12:22:15 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r100
+
+branch 268450
+------------------------------------------------------------------------
+r95 | 268424 | 2024-11-12 00:35:12 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Reintegracja gałęzi 268424 z trunk-iem
+------------------------------------------------------------------------
+r94 | 268424 | 2024-11-12 00:23:57 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r95
+
+Implementacja procedury
+------------------------------------------------------------------------
+r93 | 268424 | 2024-11-12 00:14:17 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r95
+
+Synchronizacja gałęzi 268424 z trunk-iem
+------------------------------------------------------------------------
+r92 | 268424 | 2024-11-11 22:04:13 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r95
+
+Student 268424 tworzy gałąź https://repo.cs.pwr.edu.pl/p-0/app_1/branches/268424
+------------------------------------------------------------------------
+r89 | 261756 | 2024-11-11 14:52:26 +0100 (Mon, 11 Nov 2024) | 1 line
+
+merge feature 261756
+------------------------------------------------------------------------
+r88 | 261756 | 2024-11-11 14:43:03 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+feature 261756
+------------------------------------------------------------------------
+r87 | 261756 | 2024-11-11 11:32:54 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+synch
+------------------------------------------------------------------------
+r86 | 261756 | 2024-11-11 11:28:43 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+tworze branch 261756
+------------------------------------------------------------------------
+r83 | 268462 | 2024-11-10 22:52:12 +0100 (Sun, 10 Nov 2024) | 1 line
+
+reintegrate 268462
+------------------------------------------------------------------------
+r82 | 268462 | 2024-11-10 22:46:41 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+merge trunk to branch 268462
+------------------------------------------------------------------------
+r81 | 268462 | 2024-11-10 22:41:06 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+dodanie funkcjonalności - drukowanie choinki
+------------------------------------------------------------------------
+r80 | 268462 | 2024-11-10 22:32:21 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+utworzenie brancha 268462
+------------------------------------------------------------------------
+r77 | 268442 | 2024-11-09 14:58:36 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Wyczyszczenie kopii trunka
+------------------------------------------------------------------------
+r74 | 268442 | 2024-11-09 14:45:47 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Scalenie gałęzi 268442 z trunkiem
+------------------------------------------------------------------------
+r73 | 268442 | 2024-11-09 14:31:14 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+zmieniono wlasnosc mime-type dla pliku s268442_podprogram.c
+------------------------------------------------------------------------
+r72 | 268442 | 2024-11-09 14:29:33 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Dodano program s268442_podprogram.c
+------------------------------------------------------------------------
+r71 | 268442 | 2024-11-09 14:08:30 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Creating the branch
+------------------------------------------------------------------------
+r70 | 268442 | 2024-11-09 14:05:59 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Creating the branch
+------------------------------------------------------------------------
+r67 | 268434 | 2024-11-08 20:56:05 +0100 (Fri, 08 Nov 2024) | 1 line
+
+merged branch 268434 to trunk
+------------------------------------------------------------------------
+r66 | 268434 | 2024-11-08 20:53:57 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+synchronized branch 268434 with trunk
+------------------------------------------------------------------------
+r65 | 268434 | 2024-11-08 20:48:50 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+added function for 268434
+------------------------------------------------------------------------
+r64 | 268434 | 2024-11-08 19:28:30 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+Creating branch for 268434
+------------------------------------------------------------------------
+r53 | 268441 | 2024-11-08 13:26:57 +0100 (Fri, 08 Nov 2024) | 1 line
+
+268441 merge
+------------------------------------------------------------------------
+r52 | 268441 | 2024-11-08 12:57:39 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r53
+
+dodano branch 268441
+------------------------------------------------------------------------
+r49 | 268421 | 2024-11-07 22:52:48 +0100 (Thu, 07 Nov 2024) | 1 line
+
+merge 268421 back into trunk
+------------------------------------------------------------------------
+r48 | 268421 | 2024-11-07 22:46:42 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+try merge 268421 into trunk again
+------------------------------------------------------------------------
+r47 | 268421 | 2024-11-07 22:44:35 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+merge 268421 with trunk
+------------------------------------------------------------------------
+r46 | 268421 | 2024-11-07 22:27:19 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+creating private branch for 268421
+------------------------------------------------------------------------
+r43 | 268459 | 2024-11-07 18:08:54 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r40 | 268459 | 2024-11-07 18:05:58 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r37 | 268459 | 2024-11-07 18:02:11 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodanie deklaracji dla 268416
+------------------------------------------------------------------------
+r34 | 268459 | 2024-11-07 17:54:34 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodano #include program.h do podprogramu
+------------------------------------------------------------------------
+r31 | 268459 | 2024-11-07 17:38:22 +0100 (Thu, 07 Nov 2024) | 1 line
+
+scalenie gałezi branch_268459 do trunk
+------------------------------------------------------------------------
+r30 | 268459 | 2024-11-07 17:30:58 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+Zatwierdzenie lokalnych zmian przed scalaniem
+------------------------------------------------------------------------
+r29 | 268459 | 2024-11-07 17:20:57 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+dodałem swój program
+------------------------------------------------------------------------
+r28 | 268459 | 2024-11-07 17:13:59 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+Utworzenie gałęzi dla indeksu 268459
+------------------------------------------------------------------------
+r25 | 268416 | 2024-11-05 23:02:44 +0100 (Tue, 05 Nov 2024) | 1 line
+
+268416 merguje gałąź z trunkiem
+------------------------------------------------------------------------
+r24 | 268416 | 2024-11-05 22:57:48 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r25
+
+268416 synchronizuje gałąź z trunk
+------------------------------------------------------------------------
+r23 | 268416 | 2024-11-05 22:47:46 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r25
+
+268416 zaimplementował swoją procedurę
+------------------------------------------------------------------------
+r22 | 268416 | 2024-11-05 22:09:09 +0100 (Tue, 05 Nov 2024) | 2 lines
+Merged via: r25
+
+Student 268416 tworzy własną gałąź https://repo.cs.pwr.edu.pl/p-0/app_1/branches/268416
+
+------------------------------------------------------------------------
+r17 | 268426 | 2024-11-05 16:39:41 +0100 (Tue, 05 Nov 2024) | 1 line
+
+Merge branch 268426 to trunk
+------------------------------------------------------------------------
+r16 | 268426 | 2024-11-05 16:37:39 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+Merge trunk changes to branch 268426
+------------------------------------------------------------------------
+r15 | 268426 | 2024-11-05 16:36:13 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+Add new function for student 268426
+------------------------------------------------------------------------
+r14 | 268426 | 2024-11-05 16:25:01 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+
+------------------------------------------------------------------------
+r13 | mk1 | 2024-10-29 13:45:35 +0100 (Tue, 29 Oct 2024) | 2 lines
+
+wykonano: `svn propset svn:mime-type 'text/plain;charset=utf-8' $(find app_1/ -type f )`
+
+------------------------------------------------------------------------
+r12 | admin | 2020-11-12 10:52:01 +0100 (Thu, 12 Nov 2020) | 2 lines
+
+Poprawione kodowanie README i względny adres katalogu z tagami.
+
+------------------------------------------------------------------------
+r10 | 999 | 2016-10-24 13:55:29 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+999 zreintegrował swoją gałąź z trunk-iem 
+
+
+------------------------------------------------------------------------
+r9 | 999 | 2016-10-24 13:50:09 +0200 (Mon, 24 Oct 2016) | 2 lines
+Merged via: r10
+
+999 wprowadza opis swojego podprogramu do README - ostateczna wersja jego gałęzi 
+
+------------------------------------------------------------------------
+r8 | 999 | 2016-10-24 13:46:37 +0200 (Mon, 24 Oct 2016) | 2 lines
+Merged via: r10
+
+999 ponownie synchronizuje swoją gałąź z trunk 
+
+------------------------------------------------------------------------
+r5 | 999 | 2016-10-24 13:37:15 +0200 (Mon, 24 Oct 2016) | 3 lines
+Merged via: r10
+
+999 zaimplementował swoją procedurę
+
+
+------------------------------------------------------------------------
+r4 | 999 | 2016-10-24 13:21:53 +0200 (Mon, 24 Oct 2016) | 3 lines
+Merged via: r10
+
+999 synchronizuje swoją gałąź z trunk
+
+
+------------------------------------------------------------------------
+r2 | 999 | 2016-10-17 16:01:19 +0200 (Mon, 17 Oct 2016) | 1 line
+Merged via: r10
+
+student 999 tworzy własną gałąź https://156.17.7.16/svn/lab/piaskownica/app_1/branches/999
+------------------------------------------------------------------------
+r7 | admin | 2016-10-24 13:44:15 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+Dodatkowe wyjaśnienia w pliku README o tworzeniu tag-ów
+
+
+------------------------------------------------------------------------
+r3 | 999 | 2016-10-24 13:04:10 +0200 (Mon, 24 Oct 2016) | 2 lines
+
+dodano plik README w trunk
+
+------------------------------------------------------------------------
+r1 | admin | 2016-10-17 14:28:36 +0200 (Mon, 17 Oct 2016) | 3 lines
+
+początkowa wersja projektu.
+
+
+------------------------------------------------------------------------
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ ls
+README           s0_podprogram.c       s268416_podprogram.c  s268426_podprogram.c  s268442_podprogram.c  s268458_podprogram.c
+main.c           s0_podprogram.o       s268416_podprogram.o  s268426_podprogram.o  s268442_podprogram.o  s268458_podprogram.o
+main.o           s254635_podprogram.c  s268418_podprogram.c  s268434_podprogram.c  s268444_podprogram.c  s268459_podprogram.c
+makefile         s254635_podprogram.o  s268418_podprogram.o  s268434_podprogram.o  s268444_podprogram.o  s268459_podprogram.o
+program          s254652_podprogram.c  s268421_podprogram.c  s268436_podprogram.c  s268450_podprogram.c  s268462_podprogram.c
+program.h        s254652_podprogram.o  s268421_podprogram.o  s268436_podprogram.o  s268450_podprogram.o  s268462_podprogram.o
+program_usage.c  s261756_podprogram.c  s268424_podprogram.c  s268441_podprogram.c  s268454_podprogram.c  s999_podprogram.c
+program_usage.o  s261756_podprogram.o  s268424_podprogram.o  s268441_podprogram.o  s268454_podprogram.o  s999_podprogram.o
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ svn blame -g 2s254652_podprogram.c
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '254652': *****
+
+     138     254652 #include "program.h"
+     138     254652 
+     138     254652 void s254652_podprogram() {
+     138     254652 	printf("Student: Piotr Rzepka [nr indeksu: 254652]\n");
+     138     254652 	printf("Program wczytuje liczbę naturalną n i wypisuje liczbę o 10 większą od niej");
+     138     254652 
+     138     254652 	printf("Podaj n: ");
+     138     254652 	unsigned n;
+     138     254652 	scanf("%u", &n);
+     138     254652 
+     138     254652 	n = n+10;
+     138     254652 	
+     138     254652 	printf("Liczba o 10 większa to: %u ", n);
+     138     254652 	printf("\n");
+     138     254652 }	 	 #PREZENTACJA ZADANIA 2 i 3	 	 	 	 	 
+piotr@DESKTOP-V9A34KA://mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3/app1_trunk$ piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ catl3z./l3z2.bash 1 5 https://repo.cs.pwr.edu.pl/info/SP/l3/a/
+     10 a
+      3 aa
+      1 aaa
+      1 aaaab
+      1 aaabb
+      2 aab
+      1 aabab
+      1 aabbb
+      6 ab
+      1 aba
+      1 abaab
+      1 ababb
+      2 abb
+      1 abbab
+      1 abbbb
+     10 b
+      1 bab
+      3 bb
+      1 bbb
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ ./l3z2.bash 15 https://repo.cs.pwr.edu.pl/info/SP/l3/a/ https://repo.cs.pwr.edu.pl/info/SP/l3/a/ https://repo.cs.pwr.edu.pl/info/SP/l3/a/piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 2 https://repo.cs.pwr.edu.pl/info/SP/l3/a/3 https://repo.cs.pwr.edu.pl/info/SP/l3/a/
+      6 a
+      3 aa
+      1 aaa
+      1 aaaab
+      1 aaabb
+      2 aab
+      1 aabab
+      1 aabbb
+      4 ab
+      1 aba
+      1 abaab
+      1 ababb
+      1 abb
+      1 abbab
+      1 abbbb
+      5 b
+      1 bab
+      1 bb
+      3 c
+      2 d
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ ./l3z2.bash 23 https://repo.cs.pwr.edu.pl/info/SP/l3/a/.bash 23 https://repo.cs.pwr.edu.pl/info/SP/l3/a/piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 3.bash 23 https://repo.cs.pwr.edu.pl/info/SP/l3/a/piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 
+ https://repo.cs.pwr.edu.pl/info/SP/l3/a/ https://repo.cs.pwr.edu.pl/info/SP/l3/a/piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 1 https://repo.cs.pwr.edu.pl/info/SP/l3/a/5 https://repo.cs.pwr.edu.pl/info/SP/l3/a/
+      1 
+      7 a
+      3 aa
+      1 aaa
+      1 aaaab
+      1 aaabb
+      2 aab
+      1 aabab
+      1 aabbb
+      5 ab
+      1 aba
+      1 abaab
+      1 ababb
+      2 abb
+      1 abbab
+      1 abbbb
+      7 b
+      1 bab
+      3 bb
+      1 bbb
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ ./l3z3.bash 15 https://repo.cs.pwr.edu.pl/info/SP/l3/a/ https://repo.cs.pwr.edu.pl/info/SP/l3/a/8 https://repo.cs.pwr.edu.pl/info/SP/l3/a/
+      1 
+      7 a
+      3 aa
+      1 aaa
+      1 aaaab
+      1 aaabb
+      2 aab
+      1 aabab
+      1 aabbb
+      5 ab
+      1 aba
+      1 abaab
+      1 ababb
+      2 abb
+      1 abbab
+      1 abbbb
+      7 b
+      1 bab
+      3 bb
+      1 bbb
+      3 c
+      2 d
+      1 dd
+piotr@DESKTOP-V9A34KA:/mnt/c/Users/piotr/Desktop/sem_zimowy/sp/l3$ 
